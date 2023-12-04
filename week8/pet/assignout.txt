@@ -1,0 +1,291 @@
+Script started on 2023-10-11 10:39:15-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week8/pet[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week8/pet[00m$ ./pet.out 
+[?2004lWelcome to The pet program
+Generating a new pet...
+Enter a species
+0) Zombie
+1) Cat
+2) Lizard
+3) Skeleton
+4) Slimeball
+> 3
+Enter name (must not be empty): Dr. Bones
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 3
+Species: Skeleton
+Hunger: 15
+Happiness: 28
+Health: 69
+Name: Dr. Bones
+
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +8 happiness. -8 happy. +8 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +1 happiness. -1 happy. +1 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +3 happiness. -3 happy. +3 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +8 happiness. -8 happy. +8 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 3
+Species: Skeleton
+Hunger: 35
+Happiness: 48
+Health: 49
+Name: Dr. Bones
+
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 2
+You feed your pet! +0 health. -0 happiness. -0 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 2
+You feed your pet! +3 health. -3 happiness. -3 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 2
+You feed your pet! +1 health. -1 happiness. -1 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 2
+You feed your pet! +9 health. -9 happiness. -9 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 2
+You feed your pet! +7 health. -7 happiness. -7 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +2 happiness. -2 happy. +2 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +3 happiness. -3 happy. +3 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 2
+You feed your pet! +2 health. -2 happiness. -2 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 3
+Species: Skeleton
+Hunger: 18
+Happiness: 31
+Health: 66
+Name: Dr. Bones
+
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +4 happiness. -4 happy. +4 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +3 happiness. -3 happy. +3 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +0 happiness. -0 happy. +0 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +6 happiness. -6 happy. +6 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 3
+Species: Skeleton
+Hunger: 31
+Happiness: 44
+Health: 53
+Name: Dr. Bones
+
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +7 happiness. -7 happy. +7 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +0 happiness. -0 happy. +0 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +7 happiness. -7 happy. +7 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +0 happiness. -0 happy. +0 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +4 happiness. -4 happy. +4 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +2 happiness. -2 happy. +2 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +0 happiness. -0 happy. +0 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 3
+Species: Skeleton
+Hunger: 51
+Happiness: 64
+Health: 33
+Name: Dr. Bones
+
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +7 happiness. -7 happy. +7 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +6 happiness. -6 happy. +6 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +9 happiness. -9 happy. +9 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +3 happiness. -3 happy. +3 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +1 happiness. -1 happy. +1 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +6 happiness. -6 happy. +6 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Display information
+4) Exit program
+> 1
+You play with your pet! +2 happiness. -2 happy. +2 hunger.
+Your pet has died from a lack of health.
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week8/pet[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week8/pet[00m$ 1
+[?2004l11: command not found
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week8/pet[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week8/pet[00m$ 1[Khe died :(
+[?2004lbash: syntax error near unexpected token `('
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week8/pet[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week8/pet[00m$ exit
+[?2004lexit
+
+Script done on 2023-10-11 10:40:38-07:00 [COMMAND_EXIT_CODE="2"]

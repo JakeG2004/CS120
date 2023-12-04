@@ -1,0 +1,113 @@
+Script started on 2023-09-01 11:14:12-07:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="144" LINES="14"]
+[?2004h]0;jake@Laptop4070: ~/week3[01;32mjake@Laptop4070[00m:[01;34m~/week3[00m$ exit./calculator.out
+[?2004lWelcome to the calculator. Begin by inputting your first number: 1
+Enter the second number: 1
+Enter the operation you want to perform: 
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Modulo
+6) Compare
+Operation to perform: 1
+Result: 2
+[?2004h]0;jake@Laptop4070: ~/week3[01;32mjake@Laptop4070[00m:[01;34m~/week3[00m$ ./calculator.out
+[?2004lWelcome to the calculator. Begin by inputting your first number: 1
+Enter the second number: 1
+Enter the operation you want to perform: 
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Modulo
+6) Compare
+Operation to perform: 2
+Result: 0
+[?2004h]0;jake@Laptop4070: ~/week3[01;32mjake@Laptop4070[00m:[01;34m~/week3[00m$ ./calculator.out
+[?2004lWelcome to the calculator. Begin by inputting your first number: 1
+Enter the second number: 1 6
+Enter the operation you want to perform: 
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Modulo
+6) Compare
+Operation to perform: 3
+Result: 6
+[?2004h]0;jake@Laptop4070: ~/week3[01;32mjake@Laptop4070[00m:[01;34m~/week3[00m$ ./calculator.out
+[?2004lWelcome to the calculator. Begin by inputting your first number: 12
+Enter the second number: 7
+Enter the operation you want to perform: 
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Modulo
+6) Compare
+Operation to perform: 4
+Result: 1.71429
+[?2004h]0;jake@Laptop4070: ~/week3[01;32mjake@Laptop4070[00m:[01;34m~/week3[00m$ 12[K[K./calculator.out
+[?2004lWelcome to the calculator. Begin by inputting your first number: 12
+Enter the second number: 0
+Enter the operation you want to perform: 
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Modulo
+6) Compare
+Operation to perform: 4
+Error: Divide by zero
+[?2004h]0;jake@Laptop4070: ~/week3[01;32mjake@Laptop4070[00m:[01;34m~/week3[00m$ ./calculator.out
+[?2004lWelcome to the calculator. Begin by inputting your first number: 10
+Enter the second number: 3
+Enter the operation you want to perform: 
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Modulo
+6) Compare
+Operation to perform: 5
+Result: 1
+[?2004h]0;jake@Laptop4070: ~/week3[01;32mjake@Laptop4070[00m:[01;34m~/week3[00m$ ./calculator.out
+[?2004lWelcome to the calculator. Begin by inputting your first number: 4
+Enter the second number: 5
+Enter the operation you want to perform: 
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Modulo
+6) Compare
+Operation to perform: 6
+Result: 4 < 5
+[?2004h]0;jake@Laptop4070: ~/week3[01;32mjake@Laptop4070[00m:[01;34m~/week3[00m$ ./calculator.out
+[?2004lWelcome to the calculator. Begin by inputting your first number: 5
+Enter the second number: 4
+Enter the operation you want to perform: 
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Modulo
+6) Compare
+Operation to perform: 6
+Result: 5 > 4
+[?2004h]0;jake@Laptop4070: ~/week3[01;32mjake@Laptop4070[00m:[01;34m~/week3[00m$ ./calculator.out
+[?2004lWelcome to the calculator. Begin by inputting your first number: 5
+Enter the second number: 5
+Enter the operation you want to perform: 
+1) Add
+2) Subtract
+3) Multiply
+4) Divide
+5) Modulo
+6) Compare
+Operation to perform: 6
+Result: 5 = 5
+[?2004h]0;jake@Laptop4070: ~/week3[01;32mjake@Laptop4070[00m:[01;34m~/week3[00m$ exit
+[?2004lexit
+
+Script done on 2023-09-01 11:15:11-07:00 [COMMAND_EXIT_CODE="0"]

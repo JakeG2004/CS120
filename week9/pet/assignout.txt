@@ -1,0 +1,603 @@
+Script started on 2023-10-17 10:01:34-07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="172" LINES="16"]
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week9/pet[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week9/pet[00m$ ./pet.out 
+[?2004lWelcome to The pet program
+Generating a new pet...
+Enter a species
+0) Zombie
+1) Cat
+2) Lizard
+3) Skeleton
+4) Slimeball
+> 2
+Enter name (must not be empty): Ruby
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 4
+Species: Lizard
+Name: 	Ruby
+Hunger: 	[###########################################################*****************************************]
+Happiness: 	[###################################*****************************************************************]
+Health: 	[###############################*********************************************************************]
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 3
+Trick:
+1) Spin
+2) Backflip
+3) Paint
+4) Math
+> 1
+Your pet does a spin! +7 happiness!
+Your pet finds a rat on the street and tries to eat it. -8 health. -8 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 3
+Trick:
+1) Spin
+2) Backflip
+3) Paint
+4) Math
+> 2
+Your pet attempts to do a sick double-dog-dare backflip but does not land it. -12 health
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 3
+Trick:
+1) Spin
+2) Backflip
+3) Paint
+4) Math
+> 2
+Your pet attempts to do a sick double-dog-dare backflip but does not land it. -4 health
+Your pet looks you dead in the eyes and tells you your full date of birth, SSN, and credit card number, followed by "nobody will believe you". -6comfort
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 4
+Species: Lizard
+Name: 	Ruby
+Hunger: 	[###################################################*************************************************]
+Happiness: 	[##########################**************************************************************************]
+Health: 	[#######################*****************************************************************************]
+Your pet looks you dead in the eyes and tells you your full date of birth, SSN, and credit card number, followed by "nobody will believe you". -2comfort
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +8 health. -8 happiness. -8 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +8 health. -8 happiness. -8 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +3 health. -3 happiness. -3 hunger.
+Your pet runs away from you for a little bit. -3 health. +3 hunger. +3happiness
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +3 health. -3 happiness. -3 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +7 health. -7 happiness. -7 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 4
+Species: Lizard
+Name: 	Ruby
+Hunger: 	[#########################***************************************************************************]
+Happiness: 	[#############################***********************************************************************]
+Health: 	[#################################################***************************************************]
+Your pet looks you dead in the eyes and tells you your full date of birth, SSN, and credit card number, followed by "nobody will believe you". -6comfort
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +5 health. -5 happiness. -5 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +5 health. -5 happiness. -5 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +2 health. -2 happiness. -2 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 4
+Species: Lizard
+Name: 	Ruby
+Hunger: 	[#############***************************************************************************************]
+Happiness: 	[#############################***********************************************************************]
+Health: 	[#############################################################***************************************]
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +2 health. -2 happiness. -2 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +9 health. -9 happiness. -9 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +7 health. -7 happiness. -7 hunger.
+Your pet looks you dead in the eyes and tells you your full date of birth, SSN, and credit card number, followed by "nobody will believe you". -9comfort
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 4
+Species: Lizard
+Name: 	Ruby
+Hunger: 	[****************************************************************************************************]
+Happiness: 	[#############################***********************************************************************]
+Health: 	[###############################################################################*********************]
+Your pet looks you dead in the eyes and tells you your full date of birth, SSN, and credit card number, followed by "nobody will believe you". -1comfort
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 1
+You play with your pet! +3 happiness. -3 happy. +3 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 1
+You play with your pet! +3 happiness. -3 happy. +3 hunger.
+Your pet looks you dead in the eyes and tells you your full date of birth, SSN, and credit card number, followed by "nobody will believe you". -5comfort
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 1
+You play with your pet! +5 happiness. -5 happy. +5 hunger.
+Your pet looks you dead in the eyes and tells you your full date of birth, SSN, and credit card number, followed by "nobody will believe you". -3comfort
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 1
+You play with your pet! +9 happiness. -9 happy. +9 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 4
+Species: Lizard
+Name: 	Ruby
+Hunger: 	[****************************************************************************************************]
+Happiness: 	[#################################################***************************************************]
+Health: 	[###########################################################*****************************************]
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 1
+You play with your pet! +3 happiness. -3 happy. +3 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 1
+You play with your pet! +8 happiness. -8 happy. +8 hunger.
+Your pet looks you dead in the eyes and tells you your full date of birth, SSN, and credit card number, followed by "nobody will believe you". -8comfort
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 1
+You play with your pet! +9 happiness. -9 happy. +9 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 4
+Species: Lizard
+Name: 	Ruby
+Hunger: 	[****************************************************************************************************]
+Happiness: 	[#####################################################################*******************************]
+Health: 	[#######################################*************************************************************]
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +7 health. -7 happiness. -7 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +6 health. -6 happiness. -6 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +1 health. -1 happiness. -1 hunger.
+Your pet runs away from you for a little bit. -4 health. +4 hunger. +4happiness
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 4
+Species: Lizard
+Name: 	Ruby
+Hunger: 	[####************************************************************************************************]
+Happiness: 	[#########################################################################***************************]
+Health: 	[#################################################***************************************************]
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +3 health. -3 happiness. -3 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +6 health. -6 happiness. -6 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +8 health. -8 happiness. -8 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 4
+Species: Lizard
+Name: 	Ruby
+Hunger: 	[****************************************************************************************************]
+Happiness: 	[#########################################################################***************************]
+Health: 	[##################################################################**********************************]
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 1
+You play with your pet! +5 happiness. -5 happy. +5 hunger.
+Your pet finds a rat on the street and tries to eat it. -9 health. -9 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 1
+You play with your pet! +3 happiness. -3 happy. +3 hunger.
+Your pet runs away from you for a little bit. -6 health. +6 hunger. +6happiness
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 1
+You play with your pet! +9 happiness. -9 happy. +9 hunger.
+Your pet finds a rat on the street and tries to eat it. -6 health. -6 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 1
+You play with your pet! +8 happiness. -8 happy. +8 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 4
+Species: Lizard
+Name: 	Ruby
+Hunger: 	[****************************************************************************************************]
+Happiness: 	[####################################################################################################]
+Health: 	[####################********************************************************************************]
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +6 health. -6 happiness. -6 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +2 health. -2 happiness. -2 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +4 health. -4 happiness. -4 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +2 health. -2 happiness. -2 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +1 health. -1 happiness. -1 hunger.
+Your pet finds a rat on the street and tries to eat it. -4 health. -4 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 4
+Species: Lizard
+Name: 	Ruby
+Hunger: 	[****************************************************************************************************]
+Happiness: 	[####################################################################################################]
+Health: 	[###############################*********************************************************************]
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +9 health. -9 happiness. -9 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +1 health. -1 happiness. -1 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +2 health. -2 happiness. -2 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +9 health. -9 happiness. -9 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +5 health. -5 happiness. -5 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 4
+Species: Lizard
+Name: 	Ruby
+Hunger: 	[****************************************************************************************************]
+Happiness: 	[####################################################################################################]
+Health: 	[#########################################################*******************************************]
+Your pet runs away from you for a little bit. -9 health. +9 hunger. +9happiness
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +4 health. -4 happiness. -4 hunger.
+Your pet finds a rat on the street and tries to eat it. -1 health. -1 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +8 health. -8 happiness. -8 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +1 health. -1 happiness. -1 hunger.
+Your pet runs away from you for a little bit. -3 health. +3 hunger. +3happiness
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 2
+You feed your pet! +1 health. -1 happiness. -1 hunger.
+Your pet runs away from you for a little bit. -7 health. +7 hunger. +7happiness
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 4
+Species: Lizard
+Name: 	Ruby
+Hunger: 	[#########*******************************************************************************************]
+Happiness: 	[####################################################################################################]
+Health: 	[###################################################*************************************************]
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 3
+Trick:
+1) Spin
+2) Backflip
+3) Paint
+4) Math
+> 4
+Your pet solves the reimann hypothesis. +250 money, +531 intelligence, +7happiness
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 4
+Species: Lizard
+Name: 	Ruby
+Hunger: 	[#########*******************************************************************************************]
+Happiness: 	[####################################################################################################]
+Health: 	[###################################################*************************************************]
+Your pet finds a rat on the street and tries to eat it. -8 health. -8 hunger.
+What would you like to do with your pet?
+1) Play
+2) Feed
+3) Do a trick
+4) Display information
+5) Exit program
+> 5
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week9/pet[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week9/pet[00m$ exit
+[?2004lexit
+
+Script done on 2023-10-17 10:03:02-07:00 [COMMAND_EXIT_CODE="0"]

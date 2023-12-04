@@ -1,0 +1,324 @@
+Script started on 2023-09-12 11:30:56-07:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="184" LINES="9"]
+[?2004h]0;jake@Laptop4070: ~/week4/nim[01;32mjake@Laptop4070[00m:[01;34m~/week4/nim[00m$ ./nim.out 
+[?2004lWelcome to Nim!
+Rules:
+1) there are 25 pieces
+2) You may choose to take 1 to 3 pieces
+3) The winner is whoever doesn't take the last piece
+Player 1, enter your move (1 - 3): 3
+22 objects remaining.
+
+Kind of a baby start.
+
+Computer removed 1
+21 objects remaining.
+Player 1, enter your move (1 - 3): 1
+20 objects remaining.
+
+Big plays going on here!
+
+Computer removed 3
+17 objects remaining.
+Player 1, enter your move (1 - 3): 3
+14 objects remaining.
+
+Computer removed 1
+13 objects remaining.
+Player 1, enter your move (1 - 3): 1
+12 objects remaining.
+
+About halfway there!
+
+Computer removed 3
+9 objects remaining.
+Player 1, enter your move (1 - 3): 2
+7 objects remaining.
+
+Computer removed 2
+5 objects remaining.
+Player 1, enter your move (1 - 3): 2
+3 objects remaining.
+
+Only 3 more remain!
+
+Computer removed 2
+1 objects remaining.
+
+And that's game!
+Player 1, enter your move (1 - 3): 1
+0 objects remaining.
+
+Computer wins! Player loses :(
+
+Do you want to play again? (y/n): y
+Welcome to Nim!
+Rules:
+1) there are 25 pieces
+2) You may choose to take 1 to 3 pieces
+3) The winner is whoever doesn't take the last piece
+Player 1, enter your move (1 - 3): 3
+22 objects remaining.
+
+Kind of a baby start.
+
+Computer removed 1
+21 objects remaining.
+Player 1, enter your move (1 - 3): 2
+19 objects remaining.
+
+Computer removed 2
+17 objects remaining.
+Player 1, enter your move (1 - 3): 1
+16 objects remaining.
+
+Computer removed 3
+13 objects remaining.
+Player 1, enter your move (1 - 3): 2
+11 objects remaining.
+
+Computer removed 2
+9 objects remaining.
+Player 1, enter your move (1 - 3): 3
+6 objects remaining.
+
+Computer removed 1
+5 objects remaining.
+Player 1, enter your move (1 - 3): 2
+3 objects remaining.
+
+Only 3 more remain!
+
+Computer removed 2
+1 objects remaining.
+
+And that's game!
+Player 1, enter your move (1 - 3): 1
+0 objects remaining.
+
+Computer wins! Player loses :(
+
+Do you want to play again? (y/n): y
+Welcome to Nim!
+Rules:
+1) there are 25 pieces
+2) You may choose to take 1 to 3 pieces
+3) The winner is whoever doesn't take the last piece
+Player 1, enter your move (1 - 3): 2
+23 objects remaining.
+
+Computer removed 2
+21 objects remaining.
+Player 1, enter your move (1 - 3): 2
+19 objects remaining.
+
+Computer removed 2
+17 objects remaining.
+Player 1, enter your move (1 - 3): 2
+15 objects remaining.
+
+Computer removed 2
+13 objects remaining.
+Player 1, enter your move (1 - 3): 2
+11 objects remaining.
+
+Computer removed 2
+9 objects remaining.
+Player 1, enter your move (1 - 3): 2
+7 objects remaining.
+
+Computer removed 2
+5 objects remaining.
+Player 1, enter your move (1 - 3): 2
+3 objects remaining.
+
+Only 3 more remain!
+
+Computer removed 2
+1 objects remaining.
+
+And that's game!
+Player 1, enter your move (1 - 3): 1
+0 objects remaining.
+
+Computer wins! Player loses :(
+
+Do you want to play again? (y/n): y
+Welcome to Nim!
+Rules:
+1) there are 25 pieces
+2) You may choose to take 1 to 3 pieces
+3) The winner is whoever doesn't take the last piece
+Player 1, enter your move (1 - 3): 1
+24 objects remaining.
+
+Computer removed 3
+21 objects remaining.
+Player 1, enter your move (1 - 3): 1
+20 objects remaining.
+
+Big plays going on here!
+
+Computer removed 3
+17 objects remaining.
+Player 1, enter your move (1 - 3): 1
+16 objects remaining.
+
+Computer removed 3
+13 objects remaining.
+Player 1, enter your move (1 - 3): 1
+12 objects remaining.
+
+About halfway there!
+
+Computer removed 3
+9 objects remaining.
+Player 1, enter your move (1 - 3): 1
+8 objects remaining.
+
+Computer removed 3
+5 objects remaining.
+Player 1, enter your move (1 - 3): 1
+4 objects remaining.
+
+Computer removed 3
+1 objects remaining.
+
+And that's game!
+Player 1, enter your move (1 - 3): 1
+0 objects remaining.
+
+Computer wins! Player loses :(
+
+Do you want to play again? (y/n): y
+Welcome to Nim!
+Rules:
+1) there are 25 pieces
+2) You may choose to take 1 to 3 pieces
+3) The winner is whoever doesn't take the last piece
+Player 1, enter your move (1 - 3): 3
+22 objects remaining.
+
+Kind of a baby start.
+
+Computer removed 1
+21 objects remaining.
+Player 1, enter your move (1 - 3): 3
+18 objects remaining.
+
+Computer removed 1
+17 objects remaining.
+Player 1, enter your move (1 - 3): 3
+14 objects remaining.
+
+Computer removed 1
+13 objects remaining.
+Player 1, enter your move (1 - 3): 3
+10 objects remaining.
+
+Getting down to the wire!
+
+Computer removed 1
+9 objects remaining.
+Player 1, enter your move (1 - 3): 3
+6 objects remaining.
+
+Computer removed 1
+5 objects remaining.
+Player 1, enter your move (1 - 3): 3
+2 objects remaining.
+
+Easy win for 0
+
+Computer removed 1
+1 objects remaining.
+
+And that's game!
+Player 1, enter your move (1 - 3): 1
+0 objects remaining.
+
+Computer wins! Player loses :(
+
+Do you want to play again? (y/n): n
+[?2004h]0;jake@Laptop4070: ~/week4/nim[01;32mjake@Laptop4070[00m:[01;34m~/week4/nim[00m$ I willnow change the variables so that the game changes. The bot most likely will not work.
+[?2004lI: command not found
+[?2004h]0;jake@Laptop4070: ~/week4/nim[01;32mjake@Laptop4070[00m:[01;34m~/week4/nim[00m$ I willnow change the variables so that the game changes. The bot most likely will not work.[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./nim.out [K[6Pexitthe computer doesn't know how to react when it loses[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./nim.out [Kg++ nim.cpp -o nim.outnow I will change the code so that the the program uses different values. The bot logic may not work[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg++ nim.cpp -o nim.out[K
+[?2004l[?2004h]0;jake@Laptop4070: ~/week4/nim[01;32mjake@Laptop4070[00m:[01;34m~/week4/nim[00m$ ./nim.out 
+[?2004lWelcome to Nim!
+Rules:
+1) there are 35 pieces
+2) You may choose to take 1 to 7 pieces
+3) The winner is whoever doesn't take the last piece
+Player 1, enter your move (1 - 7): 8
+Invalid input; please re-enter.
+Player 1, enter your move (1 - 7): 0
+Invalid input; please re-enter.
+Player 1, enter your move (1 - 7): 7
+28 objects remaining.
+
+Computer removed 1
+27 objects remaining.
+Player 1, enter your move (1 - 7): 4
+23 objects remaining.
+
+Computer removed 4
+19 objects remaining.
+Player 1, enter your move (1 - 7): 2
+17 objects remaining.
+
+Computer removed 6
+11 objects remaining.
+Player 1, enter your move (1 - 7): 5
+6 objects remaining.
+
+Computer removed 3
+3 objects remaining.
+
+Only 3 more remain!
+Player 1, enter your move (1 - 7): 3 2
+1 objects remaining.
+
+And that's game!
+
+Computer removed 1
+0 objects remaining.
+
+Player wins! Computer loses :D
+
+Do you want to play again? (y/n): y
+Welcome to Nim!
+Rules:
+1) there are 35 pieces
+2) You may choose to take 1 to 7 pieces
+3) The winner is whoever doesn't take the last piece
+Player 1, enter your move (1 - 7): 3
+32 objects remaining.
+
+Computer removed 5
+27 objects remaining.
+Player 1, enter your move (1 - 7): 1
+26 objects remaining.
+
+Computer removed 7
+19 objects remaining.
+Player 1, enter your move (1 - 7): 5
+14 objects remaining.
+
+Computer removed 3
+11 objects remaining.
+Player 1, enter your move (1 - 7): 5
+6 objects remaining.
+
+Computer removed 3
+3 objects remaining.
+
+Only 3 more remain!
+Player 1, enter your move (1 - 7): 3
+0 objects remaining.
+
+Computer wins! Player loses :(
+
+Do you want to play again? (y/n): n
+[?2004h]0;jake@Laptop4070: ~/week4/nim[01;32mjake@Laptop4070[00m:[01;34m~/week4/nim[00m$ exit
+[?2004lexit
+
+Script done on 2023-09-12 11:32:30-07:00 [COMMAND_EXIT_CODE="0"]

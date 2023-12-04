@@ -1,0 +1,56 @@
+Script started on 2023-10-17 11:23:47-07:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week5[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week5[00m$ ./a[Kadventure.out [K
+[?2004l _____  _    _ _   _ _  ___  _____    ____  _    _ ______  _____ _______ 
+ |  __ \| |  | | \ | | |/ ( )/ ____|  / __ \| |  | |  ____|/ ____|__   __|
+ | |  | | |  | |  \| | ' /|/| (___   | |  | | |  | | |__  | (___    | |
+ | |  | | |  | | . ` |  <    \___ \  | |  | | |  | |  __|  \___ \   | |
+ | |__| | |__| | |\  | . \   ____) | | |__| | |__| | |____ ____) |  | |
+ |_____/ \____/|_| \_|_|\_\ |_____/   \___\_\____/|______|_____/   |_|
+Welcome to Dunk's Quest! In this text-based adventure, you (Dunk) will be exploring a dungeon long lost to man. Be sure to play it multiple times to see all of the dialogue options!
+
+Health: 100 	Gold: 0 	Key: False
+
+	 	 	□	 
+
+	□	 	□	□
+
+	□	□	□	 
+
+	 	□	▣	□
+
+You enter a grand room with marble floors, a table with a candle, and a large golden pot in the corner. What would you like to do?
+1) Investigate the pot
+2) Investigate the candle
+3) Go left
+4) Go right
+5) Go up
+> 1
+          ________
+        .:________:.
+          )      (
+         /        \
+       ,'          `.
+      /              \
+     /                \
+    (                  )
+     \                /
+      `.            ,'
+        `.________,'
+You found 10 gold!
+> 2
+Yup. That's a candle
+       (
+       )\
+       {_}
+      .-;-.
+     |'-=-'|
+     |     |
+     |     |
+     |     |
+     |     |
+     '.___.'
+> ^C
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week5[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week5[00m$ exit
+[?2004lexit
+
+Script done on 2023-10-17 11:24:36-07:00 [COMMAND_EXIT_CODE="130"]

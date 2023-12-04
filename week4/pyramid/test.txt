@@ -1,0 +1,28 @@
+Script started on 2023-10-17 11:21:19-07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="169" LINES="15"]
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week4/pyramid[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week4/pyramid[00m$ ./pyramid.out 
+[?2004l
+Enter the number of layers : 1
+#
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week4/pyramid[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week4/pyramid[00m$ ./pyramid.out 
+[?2004l
+Enter the number of layers : 2
+ #
+###
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week4/pyramid[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week4/pyramid[00m$ ./pyramid.out 
+[?2004l
+Enter the number of layers : 3
+  #
+ ###
+#####
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week4/pyramid[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week4/pyramid[00m$ ./pyramid.out 
+[?2004l
+Enter the number of layers : 4
+   #
+  ###
+ #####
+#######
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week4/pyramid[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week4/pyramid[00m$ exit
+[?2004l
+exit
+
+Script done on 2023-10-17 11:21:33-07:00 [COMMAND_EXIT_CODE="0"]

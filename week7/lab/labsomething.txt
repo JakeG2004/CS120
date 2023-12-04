@@ -1,0 +1,21 @@
+Script started on 2023-10-03 11:38:48-07:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="157" LINES="15"]
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week7/lab[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week7/lab[00m$ ./gravity.out 
+[?2004lSelect your operation:
+1) Test height
+2) Exit program
+> 1 2
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week7/lab[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week7/lab[00m$ ./gravity.out 
+[?2004lSelect your operation:
+1) Test height
+2) Exit program
+> 1
+Height (meters): 10
+On Earth, the object will hit the ground in 1.42784 seconds and will be going 14.0071 m/s
+On Mars, the object will hit the ground in 2.32182 seconds and will be going 8.61394 m/s
+On The Moon, the object will hit the ground in 3.51364 seconds and will be going 5.6921 m/s
+On The Sun, the object will hit the ground in 0.270172 seconds and will be going 74.027 m/s
+On Jupiter, the object will hit the ground in 0.898208 seconds and will be going 22.2666 m/s
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week7/lab[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week7/lab[00m$ exit
+[?2004lexit
+
+Script done on 2023-10-03 11:39:01-07:00 [COMMAND_EXIT_CODE="0"]

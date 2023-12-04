@@ -1,0 +1,1050 @@
+Script started on 2023-09-20 10:44:55-07:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="157" LINES="21"]
+[?2004h]0;jake@pop-os: ~/Documents/SchoolWork/CS120/week5[01;32mjake@pop-os[00m:[01;34m~/Documents/SchoolWork/CS120/week5[00m$ ./adventure.out 
+[?2004l _____  _    _ _   _ _  ___  _____    ____  _    _ ______  _____ _______ 
+ |  __ \| |  | | \ | | |/ ( )/ ____|  / __ \| |  | |  ____|/ ____|__   __|
+ | |  | | |  | |  \| | ' /|/| (___   | |  | | |  | | |__  | (___    | |
+ | |  | | |  | | . ` |  <    \___ \  | |  | | |  | |  __|  \___ \   | |
+ | |__| | |__| | |\  | . \   ____) | | |__| | |__| | |____ ____) |  | |
+ |_____/ \____/|_| \_|_|\_\ |_____/   \___\_\____/|______|_____/   |_|
+Welcome to Dunk's Quest! In this text-based adventure, you (Dunk) will be exploring a dungeon long lost to man. Be sure to play it multiple times to see all of the dialogue options!
+
+Health: 100 	Gold: 0 	Key: False
+
+	 	 	□	 
+
+	□	 	□	□
+
+	□	□	□	 
+
+	 	□	▣	□
+
+You enter a grand room with marble floors, a table with a candle, and a large golden pot in the corner. What would you like to do?
+1) Investigate the pot
+2) Investigate the candle
+3) Go left
+4) Go right
+5) Go up
+> 1
+          ________
+        .:________:.
+          )      (
+         /        \
+       ,'          `.
+      /              \
+     /                \
+    (                  )
+     \                /
+      `.            ,'
+        `.________,'
+You found 10 gold!
+> 1
+          ________
+        .:________:.
+          )      (
+         /        \
+       ,'          `.
+      /              \
+     /                \
+    (                  )
+     \                /
+      `.            ,'
+        `.________,'
+It's empty.
+> 2
+Yup. That's a candle
+       (
+       )\
+       {_}
+      .-;-.
+     |'-=-'|
+     |     |
+     |     |
+     |     |
+     |     |
+     '.___.'
+> 3
+Health: 100 	Gold: 10 	Key: False
+
+	 	 	□	 
+
+	□	 	□	□
+
+	□	□	□	 
+
+	 	▣	□	□
+
+This room has a large painting on the wall. What would you like to do?
+1) Investigate the painting
+2) Go right
+3) Go up
+> 1
++---------+
+|    \/   |
+|   /_|   |
+|   )0-0( |
++---------+
+The painting looks very realistic. You reach out to touch it, and fall into it. You look around and see that you are now in an identical, but mirrored room.
+You feel as if your world is now somehow bigger
+
+Health: 100 	Gold: 10 	Key: False
+#============================================#
+[  (0.0)                                     ]
+[   =|=                                      ]
+[                                            ]
+                                             ]
+                                           | ]
+                      (")/                 | ]
+                                           | ]
+                                             ]
+[                                            ]
+[                                            ]
+[                                            ]
+#============================================#
+You see a skeleton sitting in the corner and a small painting on the wall.
+Would you like to do?
+1) Investigate the skeleton
+2) Investigate the painting
+3) Go left
+> 2
++---------+
+| (0-0)   |
+|   |_/   |
+|   /\    |
++---------+
+The painting looks very realistic. You reach out to touch it, and fall into it. You look around and see that you are now in an identical, but mirrored room.
+You feel as if your world is somehow smaller.
+
+Health: 100 	Gold: 10 	Key: False
+
+	 	 	□	 
+
+	□	 	□	□
+
+	□	□	□	 
+
+	 	▣	□	□
+
+This room has a large painting on the wall. What would you like to do?
+1) Investigate the painting
+2) Go right
+3) Go up
+> 1
++---------+
+|    \/   |
+|   /_|   |
+|   )0-0( |
++---------+
+The painting looks very realistic. You reach out to touch it, and fall into it. You look around and see that you are now in an identical, but mirrored room.
+You feel as if your world is now somehow bigger
+
+Health: 100 	Gold: 10 	Key: False
+#============================================#
+[  (0.0)                                     ]
+[   =|=                                      ]
+[                                            ]
+                                             ]
+                                           | ]
+                      (")/                 | ]
+                                           | ]
+                                             ]
+[                                            ]
+[                                            ]
+[                                            ]
+#============================================#
+You see a skeleton sitting in the corner and a small painting on the wall.
+Would you like to do?
+1) Investigate the skeleton
+2) Investigate the painting
+3) Go left
+> 1
+      .-.
+     (o.o)
+      |=|
+     __|__
+   //.=|=.\\
+  // .=|=. \\
+  \\ .=|=. //
+   \\(_=_)//
+    (:| |:)
+     || ||
+     () ()
+     || ||
+     || ||
+    ==' '==
+As you approach the skelton, he wakes up.
+Skeleton: My name is Dr. Bones! You're the first person I've talked to in decades! I'll offer you some help, if you answer my riddle NYEHEHEHE
+Answer the riddle? (y/n): y
+Dr. Bones: What is a skeleton's favorite snack?
+1) Nothing. Skeletons can't eat!
+2) Milk to make the bones strong!
+3) Spare ribs!
+> 3
+Dr. Bones: Congrats! You've answered correctly! 10 gold for you!
+Health: 100 	Gold: 20 	Key: False
+#============================================#
+[  (0.0)                                     ]
+[   =|=                                      ]
+[                                            ]
+                                             ]
+                                           | ]
+                      (")/                 | ]
+                                           | ]
+                                             ]
+[                                            ]
+[                                            ]
+[                                            ]
+#============================================#
+You see a skeleton sitting in the corner and a small painting on the wall.
+Would you like to do?
+1) Investigate the skeleton
+2) Investigate the painting
+3) Go left
+> 3
+Health: 100 	Gold: 20 	Key: False
+#============]                  [============#
+[   _                                        ]
+[  / \                 ,                     ]
+[  \_/               __I__                   ]
+                      | |                      
+                                              
+                      (")/                   
+                                              
+                                              
+[                                            ]
+[                                            ]
+[                                            ]
+#============================================#
+You enter a grand room with marble floors, a table with a candle, and a large golden pot in the corner. What would you like to do?
+1) Investigate the pot
+2) Investigate the candle
+3) Go left
+4) Go right
+5) Go up
+> 1
+          ________
+        .:________:.
+          )      (
+         /        \
+       ,'          `.
+      /              \
+     /                \
+    (                  )
+     \                /
+      `.            ,'
+        `.________,'
+It's empty.
+> 5
+Health: 100 	Gold: 20 	Key: False
+#============]                  [============#
+[ @=@                                    @=@ ]
+[  I                                      I  ]
+[ @=@                                    @=@ ]
+                                             ]
+                                             ]
+                      (")/                   ]
+                                             ]
+                                             ]
+[ @=@                                    @=@ ]
+[  I                                      I  ]
+[ @=@                                    @=@ ]
+#============]                  [============#
+The room is quite empty. Large quartz pillars line the walls, but nothing stands out. What would you like to do?
+1) Investigate the pillars
+2) Go up
+3) Go left
+4) Go down
+> 1
+ ___ 
+@   @
+ ||| 
+ ||| 
+ ||| 
+ ||| 
+(___)
+The pillars are Ionic. Nice
+> 3
+Health: 100 	Gold: 20 	Key: False
+#============================================#
+[                   -------                  ]
+[                                            ]
+[                                            ]
+                                              
+                                              
+                      (")/                   
+                                              
+                                              
+[                                            ]
+[                                            ]
+[                                            ]
+#============]                  [============#
+The room is completely empty, save for the painting on the wall. What would you like to do?
+1) Investigate the painting
+2) Go right
+3) Go left
+4) Go down
+> 1
++---------+
+| (0-0)   |
+|   |_/   |
+|   /\    |
++---------+
+It's quite a nice painting. It makes your world feel different.
+Health: 100 	Gold: 20 	Key: False
+
+	 	 	□	 
+
+	□	 	□	□
+
+	□	▣	□	 
+
+	 	□	□	□
+
+The room is completely empty, save for the painting on the wall. What would you like to do?
+1) Investigate the painting
+2) Go right
+3) Go left
+4) Go down
+> 1
++---------+
+| (0-0)   |
+|   |_/   |
+|   /\    |
++---------+
+It's quite a nice painting. It makes your world feel different.
+Health: 100 	Gold: 20 	Key: False
+#============================================#
+[                   -------                  ]
+[                                            ]
+[                                            ]
+                                              
+                                              
+                      (")/                   
+                                              
+                                              
+[                                            ]
+[                                            ]
+[                                            ]
+#============]                  [============#
+The room is completely empty, save for the painting on the wall. What would you like to do?
+1) Investigate the painting
+2) Go right
+3) Go left
+4) Go down
+> 3
+Health: 100 	Gold: 20 	Key: False
+#============]                  [============#
+[                                            ]
+[                                            ]
+[                                            ]
+[     ___                                     
+[    /| |\                                    
+[    |_8_|            (")/                   
+[                                             
+[                                             
+[                                            ]
+[                                            ]
+[                                            ]
+#============================================#
+A single chest lies in the room. What would you like to do?
+1) Investigate the chest
+2) Go up
+3) Go right
+> 1
+         __________
+        /\____;;___\
+       | /         /
+       `. ())oo() .
+        |\(%()*^^()^\
+       %| |-%-------|
+      % \ | %  ))   |
+      %  \|%________|
+As you reach to open the chest, it lunges at you! You've been attacked by a mimic!
+1) Attack
+2) Dodge
+> 1
+You attack with your sword
+10 damage!
+Mimic health: 40
+Dunk health: 100
+
+Mimic attacks!
+Mimic health: 40
+Dunk health: 95
+
+1) Attack
+2) Dodge
+> 2
+Successfully dodged!
+Mimic health: 40
+Dunk health: 95
+
+Mimic missed its attack because you dodged!
+In the enemy's struggle to hit you, it hit itself!
+Mimic health: 35
+Dunk health: 95
+
+1) Attack
+2) Dodge
+> 2
+Successfully dodged!
+Mimic health: 35
+Dunk health: 95
+
+Mimic missed its attack because you dodged!
+In the enemy's struggle to hit you, it hit itself!
+Mimic health: 30
+Dunk health: 95
+
+1) Attack
+2) Dodge
+> 1
+You attack with your sword
+10 damage!
+Mimic health: 20
+Dunk health: 95
+
+Mimic attacks!
+Mimic health: 20
+Dunk health: 90
+
+1) Attack
+2) Dodge
+> 2
+Successfully dodged!
+Mimic health: 20
+Dunk health: 90
+
+Mimic missed its attack because you dodged!
+In the enemy's struggle to hit you, it hit itself!
+Mimic health: 15
+Dunk health: 90
+
+1) Attack
+2) Dodge
+> 1
+You attack with your sword
+10 damage!
+Mimic health: 5
+Dunk health: 90
+
+Mimic attacks!
+Mimic health: 5
+Dunk health: 85
+
+1) Attack
+2) Dodge
+> 1
+You attack with your sword
+10 damage!
+Mimic health: -5
+Dunk health: 85
+
+You vanquished the Mimic
+The mimic dropped 5 gold!
+Health: 85 	Gold: 25 	Key: False
+#============]                  [============#
+[                                            ]
+[                                            ]
+[                                            ]
+[     ___                                     
+[    /| |\                                    
+[    |_8_|            (")/                   
+[                                             
+[                                             
+[                                            ]
+[                                            ]
+[                                            ]
+#============================================#
+A single chest lies in the room. What would you like to do?
+1) Investigate the chest
+2) Go up
+3) Go right
+> 1
+It's a dead mimic.
+> 2
+Health: 85 	Gold: 25 	Key: False
+#============================================#
+[                                            ]
+[         (                                  ]
+[         )                                  ]
+[         (            oo        (           ]
+[         )           oo         )           ]
+[                  o             (           ]
+[                                )           ]
+[____________________________________________]
+[                                            ]
+[                     (")/                   ]
+[                                            ]
+#============]                  [============#
+You enter a small room that has a small ledge to walk on. Beyond this ledge is a decently sized pool. You can't see the bottom. What would you like to do?
+1) Investigate the pool
+2) Go down
+> 1
+                    .---.         ,,
+         ,,        /     \       ;,,'
+        ;, ;      (  o  o )      ; ;
+          ;,';,,,  \  \/ /      ,; ;
+        ,,,  ;,,,,;;,`   '-,;'''',,,'
+       ;,, ;,, ,,,,   ,;  ,,,'';;,,;''';
+         ;,,,;    ~~'  '';,,''',,;'''' 
+                            '''
+As you peer over the edge of the pool, the water becomes uneven. A massive octopus reveals itself!.
+Octopus: What is it that you seek, my dear? My name is Octavia and if you solve my puzzle, I can help you however you please.
+Answer the riddle? (y/n): y
+Octavia: How many tickles does it take to make an octopus laugh?
+1) 8, since octopuses have 8 tentacles!
+2) None. Octopuses can't laugh.
+3) Actually only 1. It's surprisingly easy to get an octopus to laugh.
+4) 10 Tickles!
+> 4
+Octavia: Fantastic job my dear! Oh how I've missed being tickled. Could you indulge me for just a moment?
+Tickle Octavia? (y/n): y
+Octavia: HAHAHAHAHHAHA THANK YOU MY DEAR! I forgot what it felt like to laugh. Here, take this as my gratitude.
++10 gold!
+Health: 85 	Gold: 35 	Key: False
+#============================================#
+[                                            ]
+[         (                                  ]
+[         )                                  ]
+[         (            oo        (           ]
+[         )           oo         )           ]
+[                  o             (           ]
+[                                )           ]
+[____________________________________________]
+[                                            ]
+[                     (")/                   ]
+[                                            ]
+#============]                  [============#
+You enter a small room that has a small ledge to walk on. Beyond this ledge is a decently sized pool. You can't see the bottom. What would you like to do?
+1) Investigate the pool
+2) Go down
+> 2
+Health: 85 	Gold: 35 	Key: False
+#============]                  [============#
+[                                            ]
+[                                            ]
+[                                            ]
+[     ___                                     
+[    /| |\                                    
+[    |_8_|            (")/                   
+[                                             
+[                                             
+[                                            ]
+[                                            ]
+[                                            ]
+#============================================#
+A single chest lies in the room. What would you like to do?
+1) Investigate the chest
+2) Go up
+3) Go right
+> 3
+Health: 85 	Gold: 35 	Key: False
+#============================================#
+[                   -------                  ]
+[                                            ]
+[                                            ]
+                                              
+                                              
+                      (")/                   
+                                              
+                                              
+[                                            ]
+[                                            ]
+[                                            ]
+#============]                  [============#
+The room is completely empty, save for the painting on the wall. What would you like to do?
+1) Investigate the painting
+2) Go right
+3) Go left
+4) Go down
+> 2
+Health: 85 	Gold: 35 	Key: False
+#============]                  [============#
+[ @=@                                    @=@ ]
+[  I                                      I  ]
+[ @=@                                    @=@ ]
+                                             ]
+                                             ]
+                      (")/                   ]
+                                             ]
+                                             ]
+[ @=@                                    @=@ ]
+[  I                                      I  ]
+[ @=@                                    @=@ ]
+#============]                  [============#
+The room is quite empty. Large quartz pillars line the walls, but nothing stands out. What would you like to do?
+1) Investigate the pillars
+2) Go up
+3) Go left
+4) Go down
+> 2
+Health: 85 	Gold: 35 	Key: False
+#============||||||||||8|||||||||============#
+[                                            ]
+[ ___                                        ]
+[ | |                                        ]
+[ | |                                         
+[ / \                                         
+[                     (")/                    
+[                                             
+[ |                                           
+[ |                                          ]
+[ |                                          ]
+[                                            ]
+#============]                  [============#
+The room is mostly empty, however you see a sign on the wall and a mirror on another wall. There is also a locked door in front of you. What would you like to do?
+1) Investigate the mirror
+2) Investigate the sign
+3) Investigate the door
+4) Go down
+5) Go right
+> 1
+You look in the mirror. It's you!
+      __      _
+     /__\__  //
+    //_____\///
+   _| /-_-\)|/_
+  (___\ _ //___\
+  (  |\\_/// * \
+   \_| \_((*   *))
+   ( |__|_\\  *//
+   (o/  _  \_*_/
+   //\__|__/\
+  // |  | |  |
+ //  _\ | |___)
+//  (___|
+Seeing yourself fills you with courage. +10 health
+> 2
++--------------+
+|    Earl's    |
+|     Shop     |
+|    ---->     |
++--------------+
+> 3
+      ______
+   ,-' ;  ! `-.
+  / :  !  :  . \
+ |_ ;   __:  ;  |
+ )| .  :)(.  !  |
+ |     (##)  _  |
+ |  :  ;`'  (_) (
+ |  :  :  .     |
+ )_ !  ,  ;  ;  |
+ || .  .  :  :  |
+ |  .  |  :  .  |
+ |    _;----.___|
+The door seems locked
+> 5
+Health: 95 	Gold: 35 	Key: False
+#============================================#
+[                                            ]
+[                                            ]
+[                                            ]
+                                             ]
+                    (^-^)                    ]
+                 ____|_|______               ]
+                   |       |                 ]
+                                             ]
+[                                            ]
+[                     (")/                   ]
+[                                            ]
+#============================================#
+You enter a room. The only thing in it is a creature working it's shop. What would you like to do?
+1) Investigate the shop
+2) Go left
+> 1
+      /^\/^\       ((
+     [ "  "]      //
+     [_____]     ||
+     /     \    (__) ()==;;
+  []#=====================#[]
+ _[]_______________________[]_
+[_____________________________]
+ ||                         ||
+As you approach the shopkeeper, it perks up to talk to you.
+Shopkeeper: My name is Earl. I have wares, if you have coin!
+Go shopping? (y/n): y
+Earl: What would you like to purchase? I have a health potion (10 gold), and a key (25 gold).
+1) Health potion
+2) Key
+3) Leave shop
+Gold: 35
+> 1
+Shopkeep: It's too strong for a dragon, let alone a man, but I'll let you have it
+*You drink the health potion. +25 health!
+Health: 120 	Gold: 25 	Key: False
+#============================================#
+[                                            ]
+[                                            ]
+[                                            ]
+                                             ]
+                    (^-^)                    ]
+                 ____|_|______               ]
+                   |       |                 ]
+                                             ]
+[                                            ]
+[                     (")/                   ]
+[                                            ]
+#============================================#
+You enter a room. The only thing in it is a creature working it's shop. What would you like to do?
+1) Investigate the shop
+2) Go left
+> 1
+      /^\/^\       ((
+     [ "  "]      //
+     [_____]     ||
+     /     \    (__) ()==;;
+  []#=====================#[]
+ _[]_______________________[]_
+[_____________________________]
+ ||                         ||
+As you approach the shopkeeper, it perks up to talk to you.
+Shopkeeper: My name is Earl. I have wares, if you have coin!
+Go shopping? (y/n): y
+Earl: What would you like to purchase? I have a health potion (10 gold), and a key (25 gold).
+1) Health potion
+2) Key
+3) Leave shop
+Gold: 25
+> 2
+Earl: Here's your key kind sir.
+Health: 120 	Gold: 0 	Key: True
+#============================================#
+[                                            ]
+[                                            ]
+[                                            ]
+                                             ]
+                    (^-^)                    ]
+                 ____|_|______               ]
+                   |       |                 ]
+                                             ]
+[                                            ]
+[                     (")/                   ]
+[                                            ]
+#============================================#
+You enter a room. The only thing in it is a creature working it's shop. What would you like to do?
+1) Investigate the shop
+2) Go left
+> 2
+Health: 120 	Gold: 0 	Key: True
+#============||||||||||8|||||||||============#
+[                                            ]
+[ ___                                        ]
+[ | |                                        ]
+[ | |                                         
+[ / \                                         
+[                     (")/                    
+[                                             
+[ |                                           
+[ |                                          ]
+[ |                                          ]
+[                                            ]
+#============]                  [============#
+The room is mostly empty, however you see a sign on the wall and a mirror on another wall. There is also a locked door in front of you. What would you like to do?
+1) Investigate the mirror
+2) Investigate the sign
+3) Investigate the door
+4) Go down
+5) Go right
+> 3
+      ______
+   ,-' ;  ! `-.
+  / :  !  :  . \
+ |_ ;   __:  ;  |
+ )| .  :)(.  !  |
+ |     (##)  _  |
+ |  :  ;`'  (_) (
+ |  :  :  .     |
+ )_ !  ,  ;  ;  |
+ || .  .  :  :  |
+ |  .  |  :  .  |
+ |    _;----.___|
+You use the key to unlock the door.
+Health: 120 	Gold: 0 	Key: True
+#============================================#
+[                                            ]
+[                      |_|                   ]
+[                      (")                   ]
+[                      / \                   ]
+[                      | |                   ]
+[                                            ]
+[                                            ]
+[                                            ]
+[                     (")/                   ]
+[                                            ]
+[                                            ]
+#============||||||||||8|||||||||============#
+You enter a grand room with marble floors, a golden chandelier, and a large throne in the center. Sitting on the throne is a large, misshapen purple demon. 
+What would you like to do?
+1) Investigate the demon
+2) Go down
+> 1
+   ,    ,    /\   /\
+  /( /\ )\  _\ \_/ /_
+  |\_||_/| < \_   _/ >
+  \______/  \|0   0|/
+    _\/_   _(_  ^  _)_
+   ( () ) /`\|V"""V|/`\
+     {}   \  \_____/  /
+     ()   /\   )=(   /\
+     {}  /  \_/\=/\_/  \
+Demon: Ha! I knew you'd come one day. I've heard about you my whole life. You, the tiny little dunk would topple me?
+ I don't think so! You've heard of my brother, the one-eyed one-horned flying purple people eater. Now, get ready for
+ THE TWO-EYED TWO-HORNED GROUNDED PURPLE PEOPLE EATER!!! Dunk, prepare to get eaten.
+1) Attack
+2) Dodge
+> 1
+You attack with your sword
+10 damage!
+Demon health: 90
+Dunk health: 120
+
+Demon attacks!
+Demon health: 90
+Dunk health: 110
+
+1) Attack
+2) Dodge
+> 2
+Dodge failed!
+Demon health: 90
+Dunk health: 110
+
+Demon attacks!
+Demon health: 90
+Dunk health: 100
+
+1) Attack
+2) Dodge
+> 1
+You attack with your sword
+10 damage!
+Demon health: 80
+Dunk health: 100
+
+Demon attacks!
+Demon health: 80
+Dunk health: 90
+
+1) Attack
+2) Dodge
+> 1
+You attack with your sword
+10 damage!
+Demon health: 70
+Dunk health: 90
+
+Demon attacks!
+Demon health: 70
+Dunk health: 80
+
+1) Attack
+2) Dodge
+> 1
+You attack with your sword
+10 damage!
+Demon health: 60
+Dunk health: 80
+
+Demon attacks!
+Demon health: 60
+Dunk health: 70
+
+1) Attack
+2) Dodge
+> 2
+Successfully dodged!
+Demon health: 60
+Dunk health: 70
+
+Demon missed its attack because you dodged!
+In the enemy's struggle to hit you, it hit itself!
+Demon health: 55
+Dunk health: 70
+
+1) Attack
+2) Dodge
+> 1
+You attack with your sword
+10 damage!
+Demon health: 45
+Dunk health: 70
+
+Demon attacks!
+Demon health: 45
+Dunk health: 60
+
+1) Attack
+2) Dodge
+> 1
+You attack with your sword
+10 damage!
+Demon health: 35
+Dunk health: 60
+
+Demon attacks!
+Demon health: 35
+Dunk health: 50
+
+1) Attack
+2) Dodge
+> 2
+Dodge failed!
+Demon health: 35
+Dunk health: 50
+
+Demon got a critical hit!
+Demon health: 35
+Dunk health: 30
+
+1) Attack
+2) Dodge
+> 1
+You attack with your sword
+10 damage!
+Demon health: 25
+Dunk health: 30
+
+Demon attacks!
+Demon health: 25
+Dunk health: 20
+
+1) Attack
+2) Dodge
+> 1
+You attack with your sword
+10 damage!
+Demon health: 15
+Dunk health: 20
+
+Demon attacks!
+Demon health: 15
+Dunk health: 10
+
+1) Attack
+2) Dodge
+> 1 2
+Successfully dodged!
+Demon health: 15
+Dunk health: 10
+
+Demon missed its attack because you dodged!
+In the enemy's struggle to hit you, it hit itself!
+Demon health: 10
+Dunk health: 10
+
+1) Attack
+2) Dodge
+> 1
+You attack with your sword
+10 damage!
+Demon health: 0
+Dunk health: 10
+
+You vanquished the Demon
+You have succeeded in freeing the world!
+                                   .''.       
+       .''.      .        *''*    :_\/_:     . 
+      :_\/_:   _\(/_  .:.*_\/_*   : /\ :  .'.:.'.
+  .''.: /\ :   ./)\   ':'* /\ * :  '..'.  -=:o:=-
+ :_\/_:'.:::.    ' *''*    * '.'/.' _\(/_'.':'.'
+ : /\ : :::::     *_\/_*     -= o =-  /)\    '  *
+  '..'  ':::'     * /\ *     .'/.'.   '
+      *            *..*         :
+The town thanks you for your effort!
+                    .---.         ,,
+         ,,        /     \       ;,,'
+        ;, ;      (  o  o )      ; ;
+          ;,';,,,  \  \/ /      ,; ;
+        ,,,  ;,,,,;;,`   '-,;'''',,,'
+       ;,, ;,, ,,,,   ,;  ,,,'';;,,;''';
+         ;,,,;    ~~'  '';,,''',,;'''' 
+                            '''
+Thank you so much! I can swim without ever having to worry about that wretched demon again!
+      .-.
+     (o.o)
+      |=|
+     __|__
+   //.=|=.\\
+  // .=|=. \\
+  \\ .=|=. //
+   \\(_=_)//
+    (:| |:)
+     || ||
+     () ()
+     || ||
+     || ||
+    ==' '==
+Kid, I always saw that you had courage in your bones. It takes real guts (which I don't have) to do something like that. Thanks.
+      /^\/^\       ((
+     [ "  "]      //
+     [_____]     ||
+     /     \    (__) ()==;;
+  []#=====================#[]
+ _[]_______________________[]_
+[_____________________________]
+ ||                         ||
+Can't say I didn't expect it. Thanks for your business kid.
+Play again? (y/n)y
+ _____  _    _ _   _ _  ___  _____    ____  _    _ ______  _____ _______ 
+ |  __ \| |  | | \ | | |/ ( )/ ____|  / __ \| |  | |  ____|/ ____|__   __|
+ | |  | | |  | |  \| | ' /|/| (___   | |  | | |  | | |__  | (___    | |
+ | |  | | |  | | . ` |  <    \___ \  | |  | | |  | |  __|  \___ \   | |
+ | |__| | |__| | |\  | . \   ____) | | |__| | |__| | |____ ____) |  | |
+ |_____/ \____/|_| \_|_|\_\ |_____/   \___\_\____/|______|_____/   |_|
+Welcome to Dunk's Quest! In this text-based adventure, you (Dunk) will be exploring a dungeon long lost to man. Be sure to play it multiple times to see all of the dialogue options!
+
+Health: 100 	Gold: 0 	Key: False
+
+	 	 	□	 
+
+	□	 	□	□
+
+	□	□	□	 
+
+	 	□	▣	□
+
+You enter a grand room with marble floors, a table with a candle, and a large golden pot in the corner. What would you like to do?
+1) Investigate the pot
+2) Investigate the candle
+3) Go left
+4) Go right
+5) Go up
+> 4
+Health: 100 	Gold: 0 	Key: False
+
+	 	 	□	 
+
+	□	 	□	□
+
+	□	□	□	 
+
+	 	□	□	▣
+
+You see a skeleton sitting in the corner and a small painting on the wall.
+Would you like to do?
+1) Investigate the skeleton
+2) Investigate the painting
+3) Go left
+> 3
+Health: 100 	Gold: 0 	Key: False
+
+	 	 	□	 
+
+	□	 	□	□
+
+	□	□	□	 
+
+	 	□	▣	□
+
+You enter a grand room with marble floors, a table with a candle, and a large golden pot in the corner. What would you like to do?
+1) Investigate the pot
+2) Investigate the candle
+3) Go left
+4) Go right
+5) Go up
+> ^C
+[?2004h]0;jake@pop-os: ~/Documents/SchoolWork/CS120/week5[01;32mjake@pop-os[00m:[01;34m~/Documents/SchoolWork/CS120/week5[00m$ exit
+[?2004lexit
+
+Script done on 2023-09-20 10:47:08-07:00 [COMMAND_EXIT_CODE="130"]

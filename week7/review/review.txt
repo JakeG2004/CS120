@@ -1,0 +1,161 @@
+Script started on 2023-09-29 12:23:20-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="254" LINES="77"]
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week7/review[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week7/review[00m$ ./review.out 
+[?2004l
+Welcome to the REVIEWINATOR. Choose your operation.
+
+1) Print N hashes
+2) Determine whether a value is positive, negative, or zero
+3) Test if a number is prime
+4) Count to X by Ys
+5) Make a multiplication table
+6) Exit program
+> 1
+Hashes:  -7
+Invalid input; please re-enter.
+Hashes:  3
+***
+
+Welcome to the REVIEWINATOR. Choose your operation.
+
+1) Print N hashes
+2) Determine whether a value is positive, negative, or zero
+3) Test if a number is prime
+4) Count to X by Ys
+5) Make a multiplication table
+6) Exit program
+> 2
+Value: -1
+-1 is negative
+
+Welcome to the REVIEWINATOR. Choose your operation.
+
+1) Print N hashes
+2) Determine whether a value is positive, negative, or zero
+3) Test if a number is prime
+4) Count to X by Ys
+5) Make a multiplication table
+6) Exit program
+> 2
+Value: 
+0
+0 is 0
+
+Welcome to the REVIEWINATOR. Choose your operation.
+
+1) Print N hashes
+2) Determine whether a value is positive, negative, or zero
+3) Test if a number is prime
+4) Count to X by Ys
+5) Make a multiplication table
+6) Exit program
+> 2
+Value: 1
+1 is positive
+
+Welcome to the REVIEWINATOR. Choose your operation.
+
+1) Print N hashes
+2) Determine whether a value is positive, negative, or zero
+3) Test if a number is prime
+4) Count to X by Ys
+5) Make a multiplication table
+6) Exit program
+> 3
+Number to test: 1
+1 is prime
+
+Welcome to the REVIEWINATOR. Choose your operation.
+
+1) Print N hashes
+2) Determine whether a value is positive, negative, or zero
+3) Test if a number is prime
+4) Count to X by Ys
+5) Make a multiplication table
+6) Exit program
+> 3
+Number to test: 2
+2 is prime
+
+Welcome to the REVIEWINATOR. Choose your operation.
+
+1) Print N hashes
+2) Determine whether a value is positive, negative, or zero
+3) Test if a number is prime
+4) Count to X by Ys
+5) Make a multiplication table
+6) Exit program
+> 3
+Number to test: 4
+4 is not prime
+
+Welcome to the REVIEWINATOR. Choose your operation.
+
+1) Print N hashes
+2) Determine whether a value is positive, negative, or zero
+3) Test if a number is prime
+4) Count to X by Ys
+5) Make a multiplication table
+6) Exit program
+> 4
+Goal number: 16
+Increment: 4
+0
+4
+8
+12
+16
+
+Welcome to the REVIEWINATOR. Choose your operation.
+
+1) Print N hashes
+2) Determine whether a value is positive, negative, or zero
+3) Test if a number is prime
+4) Count to X by Ys
+5) Make a multiplication table
+6) Exit program
+> 4
+Goal number: -16
+Increment: 4
+0
+-4
+-8
+-12
+-16
+
+Welcome to the REVIEWINATOR. Choose your operation.
+
+1) Print N hashes
+2) Determine whether a value is positive, negative, or zero
+3) Test if a number is prime
+4) Count to X by Ys
+5) Make a multiplication table
+6) Exit program
+> 5
+X: 10
+Y: 10
+	1	2	3	4	5	6	7	8	9	10	
+
+1	1	2	3	4	5	6	7	8	9	10	
+2	2	4	6	8	10	12	14	16	18	20	
+3	3	6	9	12	15	18	21	24	27	30	
+4	4	8	12	16	20	24	28	32	36	40	
+5	5	10	15	20	25	30	35	40	45	50	
+6	6	12	18	24	30	36	42	48	54	60	
+7	7	14	21	28	35	42	49	56	63	70	
+8	8	16	24	32	40	48	56	64	72	80	
+9	9	18	27	36	45	54	63	72	81	90	
+10	10	20	30	40	50	60	70	80	90	100	
+
+Welcome to the REVIEWINATOR. Choose your operation.
+
+1) Print N hashes
+2) Determine whether a value is positive, negative, or zero
+3) Test if a number is prime
+4) Count to X by Ys
+5) Make a multiplication table
+6) Exit program
+> 6
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week7/review[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week7/review[00m$ exit
+[?2004lexit
+
+Script done on 2023-09-29 12:24:36-07:00 [COMMAND_EXIT_CODE="0"]

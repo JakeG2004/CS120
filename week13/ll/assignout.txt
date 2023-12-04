@@ -1,0 +1,119 @@
+Script started on 2023-11-15 16:52:42-08:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="161" LINES="14"]
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week13/ll[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week13/ll[00m$ ./ll.out
+[?2004lWhat would you like to do?
+1) Print list
+2) Insert new Node at end of list
+3) Insert new Node at start of list
+4) Insert new Node after name
+5) Find Name
+6) Exit Program
+1
+Name: d	Age: 1
+Name: c	Age: 1
+Name: b	Age: 1
+Name: a	Age: 1
+What would you like to do?
+1) Print list
+2) Insert new Node at end of list
+3) Insert new Node at start of list
+4) Insert new Node after name
+5) Find Name
+6) Exit Program
+2
+Age? e 1
+Name? e
+What would you like to do?
+1) Print list
+2) Insert new Node at end of list
+3) Insert new Node at start of list
+4) Insert new Node after name
+5) Find Name
+6) Exit Program
+1
+Name: d	Age: 1
+Name: c	Age: 1
+Name: b	Age: 1
+Name: a	Age: 1
+Name: e	Age: 1
+What would you like to do?
+1) Print list
+2) Insert new Node at end of list
+3) Insert new Node at start of list
+4) Insert new Node after name
+5) Find Name
+6) Exit Program
+3
+Age? 1
+Name? f
+What would you like to do?
+1) Print list
+2) Insert new Node at end of list
+3) Insert new Node at start of list
+4) Insert new Node after name
+5) Find Name
+6) Exit Program
+1
+Name: f	Age: 1
+Name: d	Age: 1
+Name: c	Age: 1
+Name: b	Age: 1
+Name: a	Age: 1
+Name: e	Age: 1
+What would you like to do?
+1) Print list
+2) Insert new Node at end of list
+3) Insert new Node at start of list
+4) Insert new Node after name
+5) Find Name
+6) Exit Program
+4
+Age? 1
+Name? g
+Name to insert after? c
+What would you like to do?
+1) Print list
+2) Insert new Node at end of list
+3) Insert new Node at start of list
+4) Insert new Node after name
+5) Find Name
+6) Exit Program
+1
+Name: f	Age: 1
+Name: d	Age: 1
+Name: c	Age: 1
+Name: g	Age: 1
+Name: b	Age: 1
+Name: a	Age: 1
+Name: e	Age: 1
+What would you like to do?
+1) Print list
+2) Insert new Node at end of list
+3) Insert new Node at start of list
+4) Insert new Node after name
+5) Find Name
+6) Exit Program
+5
+Name? e
+e is in the list
+What would you like to do?
+1) Print list
+2) Insert new Node at end of list
+3) Insert new Node at start of list
+4) Insert new Node after name
+5) Find Name
+6) Exit Program
+5
+Name? p
+p is not in the list
+What would you like to do?
+1) Print list
+2) Insert new Node at end of list
+3) Insert new Node at start of list
+4) Insert new Node after name
+5) Find Name
+6) Exit Program
+6
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week13/ll[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week13/ll[00m$ exit
+[?2004lexit
+
+Script done on 2023-11-15 16:53:47-08:00 [COMMAND_EXIT_CODE="0"]

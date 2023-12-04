@@ -1,0 +1,165 @@
+Script started on 2023-11-03 12:59:46-07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="176" LINES="22"]
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week12/pointers[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week12/pointers[00m$ ./pointers.out 
+[?2004lWelcome to the Powerful Pointer Program. What would you like to learn about?
+1) Creation / description of pointers
+2) Changing pointer values
+3) Changing variable value using pointers
+4) Changing variable value using a function
+5) Void pointers
+6) The relationship between pointers and arrays
+7) Exit program
+> 1
+A pointer is a special type of variable that stores the address of a chunk of memory associated with a variable.
+They are created using the "*" character. For example:
+int* ptr;
+Creates a variable called "ptr" that stores the address of an int.
+The current value of ptr is 0x7f652be28940
+
+Welcome to the Powerful Pointer Program. What would you like to learn about?
+1) Creation / description of pointers
+2) Changing pointer values
+3) Changing variable value using pointers
+4) Changing variable value using a function
+5) Void pointers
+6) The relationship between pointers and arrays
+7) Exit program
+> 2
+The pointer "ptr" stores a random address at the moment
+Now, I will change it to point at the int x using the following command:
+ptr = &x;
+It is important to remember that a pointer stores an address, so to get an address of a variable, the character "&" should be used
+A good way to remember this is that "&" means "andress"
+The new value of ptr is 0x7ffcf19d7e0c
+
+Welcome to the Powerful Pointer Program. What would you like to learn about?
+1) Creation / description of pointers
+2) Changing pointer values
+3) Changing variable value using pointers
+4) Changing variable value using a function
+5) Void pointers
+6) The relationship between pointers and arrays
+7) Exit program
+> 3
+The value of other variables can also be changed by use of a pointer.
+Using the "*" character again, we can do something called a "dereference"
+A dereference allows us to change the value of the integer at the address in the pointer
+At the moment, x = 65
+We can make ptr point to x by using
+ptr = &x
+Since ptr is pointing to x, we can use
+*ptr = x+1;
+to increment x by 1
+The new value of x is 66
+
+Welcome to the Powerful Pointer Program. What would you like to learn about?
+1) Creation / description of pointers
+2) Changing pointer values
+3) Changing variable value using pointers
+4) Changing variable value using a function
+5) Void pointers
+6) The relationship between pointers and arrays
+7) Exit program
+> 3
+The value of other variables can also be changed by use of a pointer.
+Using the "*" character again, we can do something called a "dereference"
+A dereference allows us to change the value of the integer at the address in the pointer
+At the moment, x = 66
+We can make ptr point to x by using
+ptr = &x
+Since ptr is pointing to x, we can use
+*ptr = x+1;
+to increment x by 1
+The new value of x is 67
+
+Welcome to the Powerful Pointer Program. What would you like to learn about?
+1) Creation / description of pointers
+2) Changing pointer values
+3) Changing variable value using pointers
+4) Changing variable value using a function
+5) Void pointers
+6) The relationship between pointers and arrays
+7) Exit program
+> 4
+A function can be used to change the value of x without ever passing in x. We can make ptr store the address of x using
+ptr = &x;
+Then we can create a function.
+
+void incrementX(int* ptr){
+	 *ptr += 1;
+}
+
+Before calling the function, the value of x is 67
+After, the value of x is 68
+
+Welcome to the Powerful Pointer Program. What would you like to learn about?
+1) Creation / description of pointers
+2) Changing pointer values
+3) Changing variable value using pointers
+4) Changing variable value using a function
+5) Void pointers
+6) The relationship between pointers and arrays
+7) Exit program
+> 4
+A function can be used to change the value of x without ever passing in x. We can make ptr store the address of x using
+ptr = &x;
+Then we can create a function.
+
+void incrementX(int* ptr){
+	 *ptr += 1;
+}
+
+Before calling the function, the value of x is 68
+After, the value of x is 69
+
+Welcome to the Powerful Pointer Program. What would you like to learn about?
+1) Creation / description of pointers
+2) Changing pointer values
+3) Changing variable value using pointers
+4) Changing variable value using a function
+5) Void pointers
+6) The relationship between pointers and arrays
+7) Exit program
+> 5
+A void pointer acts very similarly to any other type of pointer, but it can point to anything, functions or variables, or just memory.
+I will use malloc() to call a chunk of memory and use the void* to point to it by using
+ptr2 = malloc(1);
+malloc calls 1 byte of memory and returns a void pointer to that memory
+The current address of ptr2 is 0x5624de1d46d0
+The current value of ptr2 is 0
+Remember to always use free() when using malloc!
+
+Welcome to the Powerful Pointer Program. What would you like to learn about?
+1) Creation / description of pointers
+2) Changing pointer values
+3) Changing variable value using pointers
+4) Changing variable value using a function
+5) Void pointers
+6) The relationship between pointers and arrays
+7) Exit program
+> 6
+When an array is defined, such as using
+int myArr[4];
+A pointer to a chunk of memory with 4*sizeof(int) is created. So, we can print the address of the array using
+cout << &myArr << endl;
+This value is 0x7ffcf19d7dd0
+This memory points to the rest of the array.
+The [i] notation for arrays is a simplification of pointer arithmetic. By multiplying i by the size of the datatype, one can find the address of each piece of data in the array.
+For example, the value of the array at i = 0 can be obtained using myArr[0], and that value is 0
+Now, the same value can be found by using *myArr. This value is 0
+Now, finding the value at i = 1 using traditional means gives 1
+Finding any value using pointer arithmetic means using *(myArr + i). For i = 1, this value is 1
+
+Welcome to the Powerful Pointer Program. What would you like to learn about?
+1) Creation / description of pointers
+2) Changing pointer values
+3) Changing variable value using pointers
+4) Changing variable value using a function
+5) Void pointers
+6) The relationship between pointers and arrays
+7) Exit program
+> 7
+
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week12/pointers[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week12/pointers[00m$ exit
+[?2004lexit
+
+Script done on 2023-11-03 13:00:22-07:00 [COMMAND_EXIT_CODE="0"]

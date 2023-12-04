@@ -1,0 +1,661 @@
+Script started on 2023-09-29 10:33:38-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week6/game[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week6/game[00m$ ./game.out 
+[?2004l   .---. ,-.    ,-.         ,---.    _______ ,-.         ,---.
+  ( .-._)| |    |(||\    /| | .-'   |__   __||(||\    /| | .-'   
+ (_) \   | |    (_)|(\  / | | `-.     )| |   (_)|(\  / | | `-.   
+ _  \ \  | |    | |(_)\/  | | .-'    (_) |   | |(_)\/  | | .-'   
+( `-'  ) | `--. | || \  / | |  `--.    | |   | || \  / | |  `--. 
+ `----'  |( __.'`-'| |\/| | /( __.'    `-'   `-'| |\/| | /( __.' 
+         (_)       '-'  '-'(__)                 '-'  '-'(__)     
+Welcome to slime time! In this game, you play as a ball of sludge and your goal is to make it to the sludgy swamp at the end of the map. You'll encounter many challenges along the way. Have fun!
+Roll the die? (y/n): y
+You rolled 1
+Gunk: 15	Has Spray Bottle: false
+	□	□	□	 	□	□	□
+
+	□	 	□	□	□	 	□
+
+	□	 	 	 	 	□	□
+
+	□	□	□	□	 	□	 
+
+	 	 	 	□	 	□	□
+
+	▣	□	□	□	 	 	□
+
+Nice! You found 10 gunk on the floor! + 10 gunk!
+ .---.   
+/     )  
+|    (_) 
+|     |
+\     /  
+ )---'  
+(_)
+Roll the die? (y/n): y
+You rolled 2
+Gunk: 25	Has Spray Bottle: false
+	□	□	□	 	□	□	□
+
+	□	 	□	□	□	 	□
+
+	□	 	 	 	 	□	□
+
+	□	□	□	□	 	□	 
+
+	 	 	 	□	 	□	□
+
+	▣	▣	▣	□	 	 	□
+
+    _____
+   /     \
+  |       |
+  (=======)
+-------------
+  | "   " |
+  |_______|
+  |\#####/|
+  | \###/ |
+You're sliming your way to the swamp when a bandit jumps you!
+Bandit: Why, lookie what we got here! We got a real gunker on our hands here! HAHA
+Tell me, goo, do you want to live to see tomorrow? (y/n)
+> y
+Bandit: You made the right choice. Hand over some gunk or I'll dry you out!
+*He holds a paper towel over you*
+Hand over gunk? (y/n): y
+Bandit: You're smarter than you look. Thanks for the 8 gunk.
+ The bandit walks away, laughing. -8 gunk.
+Roll the die? (y/n): y
+You rolled 1
+Gunk: 17	Has Spray Bottle: false
+	□	□	□	 	□	□	□
+
+	□	 	□	□	□	 	□
+
+	□	 	 	 	 	□	□
+
+	□	□	□	□	 	□	 
+
+	 	 	 	□	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+         __,._
+        /  _  \
+       |  6 \  \  oo 
+        \___/ .|__|| 
+ __,..="^  . , "  , \ 
+<.__________________/
+Snail: You going to the swamp too? (y/n): n
+Snail: Well, that's the only place with where you're going. Hope you get to wherever you're going.
+Roll the die? (y/n): y
+You rolled 4
+Gunk: 17	Has Spray Bottle: false
+	□	□	□	 	□	□	□
+
+	□	 	□	□	□	 	□
+
+	□	 	 	 	 	□	□
+
+	□	▣	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+Nice! You found 9 gunk on the floor! + 9 gunk!
+ .---.   
+/     )  
+|    (_) 
+|     |
+\     /  
+ )---'  
+(_)
+Roll the die? (y/n): y
+You rolled 2
+Gunk: 26	Has Spray Bottle: false
+	□	□	□	 	□	□	□
+
+	□	 	□	□	□	 	□
+
+	▣	 	 	 	 	□	□
+
+	▣	▣	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+      /^\/^\       ((
+     [ "  "]      //
+     [_____]     ||
+     /     \    (__) ()==;;
+  []#=====================#[]
+ _[]_______________________[]_
+[_____________________________]
+ ||                         ||
+Travelling merchant: Welcome to my shop! I've got goods, I've got goo. Whaddya want? I can only sell ya one item right now. Come back later for more.
+1) +4 to roll (14 gunk)
+2) Spray Bottle (7 gunk)
+3) +14 gunk (-4 on next roll)
+4) Leave the shop
+> 3
+You gained 14 gunk at the price of -4 on your next move
+Roll the die? (y/n): y
+You rolled -3
+Gunk: 40	Has Spray Bottle: false
+	□	□	□	 	□	□	□
+
+	□	 	□	□	□	 	□
+
+	□	 	 	 	 	□	□
+
+	□	□	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+         __,._
+        /  _  \
+       |  6 \  \  oo 
+        \___/ .|__|| 
+ __,..="^  . , "  , \ 
+<.__________________/
+Snail: You going to the swamp too? (y/n): y
+Snail: Me too. I'll give you a ride kid, 4 spaces too, as long as you give me 1 sludge and a spray with a spray bottle
+Get a ride? (y/n): y
+Snail: Sorry kid, no can do. Enjoy your walk
+Roll the die? (y/n): y
+You rolled 2
+Gunk: 40	Has Spray Bottle: false
+	□	□	□	 	□	□	□
+
+	□	 	□	□	□	 	□
+
+	□	 	 	 	 	□	□
+
+	▣	▣	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+      /^\/^\       ((
+     [ "  "]      //
+     [_____]     ||
+     /     \    (__) ()==;;
+  []#=====================#[]
+ _[]_______________________[]_
+[_____________________________]
+ ||                         ||
+Travelling merchant: Welcome to my shop! I've got goods, I've got goo. Whaddya want? I can only sell ya one item right now. Come back later for more.
+1) +2 to roll (1 gunk)
+2) Spray Bottle (0 gunk)
+3) +1 gunk (-2 on next roll)
+4) Leave the shop
+> 2
+You now have a spray bottle
+Roll the die? (y/n): y
+You rolled 1
+Gunk: 40	Has Spray Bottle: true
+	□	□	□	 	□	□	□
+
+	□	 	□	□	□	 	□
+
+	▣	 	 	 	 	□	□
+
+	▣	▣	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+Nice! You found 4 gunk on the floor! + 4 gunk!
+ .---.   
+/     )  
+|    (_) 
+|     |
+\     /  
+ )---'  
+(_)
+Roll the die? (y/n): y
+You rolled 2
+Gunk: 44	Has Spray Bottle: true
+	▣	□	□	 	□	□	□
+
+	▣	 	□	□	□	 	□
+
+	▣	 	 	 	 	□	□
+
+	▣	▣	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+Nice! You found 4 gunk on the floor! + 4 gunk!
+ .---.   
+/     )  
+|    (_) 
+|     |
+\     /  
+ )---'  
+(_)
+Roll the die? (y/n): y
+You rolled 2
+Gunk: 48	Has Spray Bottle: true
+	▣	▣	▣	 	□	□	□
+
+	▣	 	□	□	□	 	□
+
+	▣	 	 	 	 	□	□
+
+	▣	▣	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+Nice! You found 5 gunk on the floor! + 5 gunk!
+ .---.   
+/     )  
+|    (_) 
+|     |
+\     /  
+ )---'  
+(_)
+Roll the die? (y/n): y
+You rolled 3
+Gunk: 53	Has Spray Bottle: true
+	▣	▣	▣	 	□	□	□
+
+	▣	 	▣	▣	▣	 	□
+
+	▣	 	 	 	 	□	□
+
+	▣	▣	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+      .-.
+     (o.o)
+      |=|
+     __|__
+   //.=|=.\\
+  // .=|=. \\
+  \\ .=|=. //
+   \\(_=_)//
+    (:| |:)
+     || ||
+     () ()
+     || ||
+     || ||
+    ==' '==
+Skeleton: Hello! My name is Dr. Bones and it seems that I've stumbled into another goo pit, and it would mean a great deal to me if you could help me out of it.
+Help Dr. Bones? (y/n): y
+*You lift the skeleton out of the goo*
+Dr. Bones: Thank you! Now it would mean a lot to me if you could answer my riddle! Will you?
+Answer the riddle? (y/n): y
+Dr. Bones: Perfect. The question is what is a skeleton's favorite instrument?
+1) The bass
+2) The Trumpet
+3) The trombone!
+4) The xylophone
+> 3
+Dr. Bones: YES!!! ITS THE TROM-BONE HAHAHAHAHAHA! You really tickle my funny bone! Here, take this!
++ 3 gunk
+Roll the die? (y/n): y
+You rolled 4
+Gunk: 56	Has Spray Bottle: true
+	▣	▣	▣	 	▣	▣	▣
+
+	▣	 	▣	▣	▣	 	▣
+
+	▣	 	 	 	 	□	□
+
+	▣	▣	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+         __,._
+        /  _  \
+       |  6 \  \  oo 
+        \___/ .|__|| 
+ __,..="^  . , "  , \ 
+<.__________________/
+Snail: You going to the swamp too? (y/n): y
+Snail: Me too. I'll give you a ride kid, 3 spaces too, as long as you give me 4 sludge and a spray with a spray bottle
+Get a ride? (y/n): y
+Snail: Thanks kid. Enjoy your walk!
+Gunk: 52	Has Spray Bottle: false
+	▣	▣	▣	 	▣	▣	▣
+
+	▣	 	▣	▣	▣	 	▣
+
+	▣	 	 	 	 	▣	▣
+
+	▣	▣	▣	▣	 	▣	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+Roll the die? (y/n): y
+You rolled 1
+Gunk: 52	Has Spray Bottle: false
+	▣	▣	▣	 	▣	▣	▣
+
+	▣	 	▣	▣	▣	 	▣
+
+	▣	 	 	 	 	▣	▣
+
+	▣	▣	▣	▣	 	▣	 
+
+	 	 	 	▣	 	▣	□
+
+	▣	▣	▣	▣	 	 	□
+
+      .-.
+     (o.o)
+      |=|
+     __|__
+   //.=|=.\\
+  // .=|=. \\
+  \\ .=|=. //
+   \\(_=_)//
+    (:| |:)
+     || ||
+     () ()
+     || ||
+     || ||
+    ==' '==
+Skeleton: Hello! My name is Dr. Bones and it seems that I've stumbled into another goo pit, and it would mean a great deal to me if you could help me out of it.
+Help Dr. Bones? (y/n): y
+*You lift the skeleton out of the goo*
+Dr. Bones: Thank you! Now it would mean a lot to me if you could answer my riddle! Will you?
+Answer the riddle? (y/n): n
+Dr. Bones: Oh, well that's disappointing. Well, guess I better get going. See ya around
+*Mr bones walks away*
+Roll the die? (y/n): y
+You rolled 3
+Gunk: 52	Has Spray Bottle: false
+	▣	▣	▣	 	▣	▣	▣
+
+	▣	 	▣	▣	▣	 	▣
+
+	▣	 	 	 	 	▣	▣
+
+	▣	▣	▣	▣	 	▣	 
+
+	 	 	 	▣	 	▣	▣
+
+	▣	▣	▣	▣	 	 	▣
+
+You made it to the swamp!
+You used 14 turns!
+Gunks: 5
+Skeletons: 2
+Bandits: 1
+Shops: 2
+Slugs: 3
+Play again? (y/n): y
+   .---. ,-.    ,-.         ,---.    _______ ,-.         ,---.
+  ( .-._)| |    |(||\    /| | .-'   |__   __||(||\    /| | .-'   
+ (_) \   | |    (_)|(\  / | | `-.     )| |   (_)|(\  / | | `-.   
+ _  \ \  | |    | |(_)\/  | | .-'    (_) |   | |(_)\/  | | .-'   
+( `-'  ) | `--. | || \  / | |  `--.    | |   | || \  / | |  `--. 
+ `----'  |( __.'`-'| |\/| | /( __.'    `-'   `-'| |\/| | /( __.' 
+         (_)       '-'  '-'(__)                 '-'  '-'(__)     
+Welcome to slime time! In this game, you play as a ball of sludge and your goal is to make it to the sludgy swamp at the end of the map. You'll encounter many challenges along the way. Have fun!
+Roll the die? (y/n): y
+You rolled 3
+Gunk: 15	Has Spray Bottle: false
+	□	□	□	 	□	□	□
+
+	□	 	□	□	□	 	□
+
+	□	 	 	 	 	□	□
+
+	□	□	□	□	 	□	 
+
+	 	 	 	□	 	□	□
+
+	▣	▣	▣	□	 	 	□
+
+Nice! You found 3 gunk on the floor! + 3 gunk!
+ .---.   
+/     )  
+|    (_) 
+|     |
+\     /  
+ )---'  
+(_)
+Roll the die? (y/n): y
+You rolled 3
+Gunk: 18	Has Spray Bottle: false
+	□	□	□	 	□	□	□
+
+	□	 	□	□	□	 	□
+
+	□	 	 	 	 	□	□
+
+	□	□	□	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+         __,._
+        /  _  \
+       |  6 \  \  oo 
+        \___/ .|__|| 
+ __,..="^  . , "  , \ 
+<.__________________/
+Snail: You going to the swamp too? (y/n): n
+Snail: Well, that's the only place with where you're going. Hope you get to wherever you're going.
+Roll the die? (y/n): y
+You rolled 4
+Gunk: 18	Has Spray Bottle: false
+	□	□	□	 	□	□	□
+
+	□	 	□	□	□	 	□
+
+	▣	 	 	 	 	□	□
+
+	▣	▣	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+      /^\/^\       ((
+     [ "  "]      //
+     [_____]     ||
+     /     \    (__) ()==;;
+  []#=====================#[]
+ _[]_______________________[]_
+[_____________________________]
+ ||                         ||
+Travelling merchant: Welcome to my shop! I've got goods, I've got goo. Whaddya want? I can only sell ya one item right now. Come back later for more.
+1) +3 to roll (2 gunk)
+2) Spray Bottle (1 gunk)
+3) +2 gunk (-3 on next roll)
+4) Leave the shop
+> 2
+You now have a spray bottle
+Roll the die? (y/n): y
+You rolled 4
+Gunk: 17	Has Spray Bottle: true
+	▣	▣	▣	 	□	□	□
+
+	▣	 	□	□	□	 	□
+
+	▣	 	 	 	 	□	□
+
+	▣	▣	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+Nice! You found 5 gunk on the floor! + 5 gunk!
+ .---.   
+/     )  
+|    (_) 
+|     |
+\     /  
+ )---'  
+(_)
+Roll the die? (y/n): y
+You rolled 2
+Gunk: 22	Has Spray Bottle: true
+	▣	▣	▣	 	□	□	□
+
+	▣	 	▣	▣	□	 	□
+
+	▣	 	 	 	 	□	□
+
+	▣	▣	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+Nice! You found 7 gunk on the floor! + 7 gunk!
+ .---.   
+/     )  
+|    (_) 
+|     |
+\     /  
+ )---'  
+(_)
+Roll the die? (y/n): y
+You rolled 2
+Gunk: 29	Has Spray Bottle: true
+	▣	▣	▣	 	▣	□	□
+
+	▣	 	▣	▣	▣	 	□
+
+	▣	 	 	 	 	□	□
+
+	▣	▣	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+         __,._
+        /  _  \
+       |  6 \  \  oo 
+        \___/ .|__|| 
+ __,..="^  . , "  , \ 
+<.__________________/
+Snail: You going to the swamp too? (y/n): n
+Snail: Well, that's the only place with where you're going. Hope you get to wherever you're going.
+Roll the die? (y/n): y
+You rolled 2
+Gunk: 29	Has Spray Bottle: true
+	▣	▣	▣	 	▣	▣	▣
+
+	▣	 	▣	▣	▣	 	□
+
+	▣	 	 	 	 	□	□
+
+	▣	▣	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+      /^\/^\       ((
+     [ "  "]      //
+     [_____]     ||
+     /     \    (__) ()==;;
+  []#=====================#[]
+ _[]_______________________[]_
+[_____________________________]
+ ||                         ||
+Travelling merchant: Welcome to my shop! I've got goods, I've got goo. Whaddya want? I can only sell ya one item right now. Come back later for more.
+1) +1 to roll (2 gunk)
+2) Spray Bottle (1 gunk)
+3) +2 gunk (-1 on next roll)
+4) Leave the shop
+> 3
+You gained 2 gunk at the price of -1 on your next move
+Roll the die? (y/n): y
+You rolled 2
+Gunk: 31	Has Spray Bottle: true
+	▣	▣	▣	 	▣	▣	▣
+
+	▣	 	▣	▣	▣	 	▣
+
+	▣	 	 	 	 	□	▣
+
+	▣	▣	▣	▣	 	□	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+Nice! You found 4 gunk on the floor! + 4 gunk!
+ .---.   
+/     )  
+|    (_) 
+|     |
+\     /  
+ )---'  
+(_)
+Roll the die? (y/n): y
+You rolled 2
+Gunk: 35	Has Spray Bottle: true
+	▣	▣	▣	 	▣	▣	▣
+
+	▣	 	▣	▣	▣	 	▣
+
+	▣	 	 	 	 	▣	▣
+
+	▣	▣	▣	▣	 	▣	 
+
+	 	 	 	▣	 	□	□
+
+	▣	▣	▣	▣	 	 	□
+
+         __,._
+        /  _  \
+       |  6 \  \  oo 
+        \___/ .|__|| 
+ __,..="^  . , "  , \ 
+<.__________________/
+Snail: You going to the swamp too? (y/n): n
+Snail: Well, that's the only place with where you're going. Hope you get to wherever you're going.
+Roll the die? (y/n): y
+You rolled 3
+Gunk: 35	Has Spray Bottle: true
+	▣	▣	▣	 	▣	▣	▣
+
+	▣	 	▣	▣	▣	 	▣
+
+	▣	 	 	 	 	▣	▣
+
+	▣	▣	▣	▣	 	▣	 
+
+	 	 	 	▣	 	▣	▣
+
+	▣	▣	▣	▣	 	 	▣
+
+You made it to the swamp!
+You used 10 turns!
+Gunks: 4
+Skeletons: 0
+Bandits: 0
+Shops: 2
+Slugs: 3
+Play again? (y/n): n
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week6/game[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week6/game[00m$ exit
+[?2004lexit
+
+Script done on 2023-09-29 10:35:21-07:00 [COMMAND_EXIT_CODE="3"]

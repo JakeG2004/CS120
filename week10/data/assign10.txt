@@ -1,0 +1,245 @@
+Script started on 2023-10-20 18:14:10-07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="169" LINES="15"]
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week10/data[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week10/data[00m$ ./data.out 
+[?2004l
+
+***NOTE: EXAMPLE OF IMPROPER COMMAND LINE USAGE***
+Improper usage! use ./data.cpp <filename.csv>
+
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week10/data[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week10/data[00m$ ./data.out mini.csv
+[?2004l
+
+**NOTE: SMALL DATA SET*** 
+
+NOTE: I wanted to use a reduced size dataset for testing, so the filename is loaded through command-line arguments.
+This program was created by Jake Gendreau
+
+
+What would you like to learn about?
+1) An individual
+2) A species
+3) Individuals who like a particular color
+4) Quit
+> 1
+Name of individual: bam
+Bam is a Jock Deer who likes Play
+Bam says "kablang"
+
+What would you like to learn about?
+1) An individual
+2) A species
+3) Individuals who like a particular color
+4) Quit
+> 1
+Name of individual: BAM
+Bam is a Jock Deer who likes Play
+Bam says "kablang"
+
+What would you like to learn about?
+1) An individual
+2) A species
+3) Individuals who like a particular color
+4) Quit
+> 1
+Name of individual: bAm
+Bam is a Jock Deer who likes Play
+Bam says "kablang"
+
+What would you like to learn about?
+1) An individual
+2) A species
+3) Individuals who like a particular color
+4) Quit
+> 2
+Name of species: catt
+No animal with species catt found
+
+What would you like to learn about?
+1) An individual
+2) A species
+3) Individuals who like a particular color
+4) Quit
+> 2
+Name of species: cat
+Raymond is a Smug Cat who likes Nature
+Tom is a Cranky Cat who likes Education
+
+What would you like to learn about?
+1) An individual
+2) A species
+3) Individuals who like a particular color
+4) Quit
+> 3
+Name of color: blue
+Zucker is a Lazy Octopus who likes Nature
+Daisy is a Normal Dog who likes Education
+Beardo is a Smug Bear who likes Education
+
+What would you like to learn about?
+1) An individual
+2) A species
+3) Individuals who like a particular color
+4) Quit
+> 3
+Name of color: preddg
+No animal with favorite color preddg found
+
+What would you like to learn about?
+1) An individual
+2) A species
+3) Individuals who like a particular color
+4) Quit
+> 4
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week10/data[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week10/data[00m$ ./data.out mini.csv[K[K[K[K[K[K[K[K[K records.csv 
+[?2004l
+
+***NOTE: FULL DATA SET***
+
+NOTE: I wanted to use a reduced size dataset for testing, so the filename is loaded through command-line arguments.
+This program was created by Jake Gendreau
+
+
+What would you like to learn about?
+1) An individual
+2) A species
+3) Individuals who like a particular color
+4) Quit
+> 2
+Name of species: cat
+Raymond is a Smug Cat who likes Nature
+Tom is a Cranky Cat who likes Education
+Mitzi is a Normal Cat who likes Education
+Katt is a Big Sister Cat who likes Music
+Monique is a Snooty Cat who likes Fashion
+Olivia is a Snooty Cat who likes Music
+Ankha is a Snooty Cat who likes Nature
+Kabuki is a Cranky Cat who likes Music
+Stinky is a Jock Cat who likes Fitness
+Kitty is a Snooty Cat who likes Fashion
+Tangy is a Peppy Cat who likes Music
+Moe is a Lazy Cat who likes Play
+Kid Cat is a Jock Cat who likes Fitness
+Bob is a Lazy Cat who likes Play
+Rosie is a Peppy Cat who likes Music
+Tabby is a Peppy Cat who likes Music
+Punchy is a Lazy Cat who likes Play
+Kiki is a Normal Cat who likes Education
+Rudy is a Jock Cat who likes Play
+Lolly is a Normal Cat who likes Music
+Merry is a Peppy Cat who likes Fashion
+Felicity is a Peppy Cat who likes Fashion
+Purrl is a Snooty Cat who likes Fashion
+
+What would you like to learn about?
+1) An individual
+2) A species
+3) Individuals who like a particular color
+4) Quit
+> 3
+Name of color: red
+Knox is a Cranky Chicken who likes Education
+Truffles is a Peppy Pig who likes Fashion
+Elvis is a Cranky Lion who likes Education
+Flo is a Big Sister Penguin who likes Music
+Frita is a Big Sister Sheep who likes Music
+Lucy is a Normal Pig who likes Music
+Chops is a Smug Pig who likes Education
+Ava is a Normal Chicken who likes Music
+Olaf is a Smug Anteater who likes Education
+Flurry is a Normal Hamster who likes Nature
+Curlos is a Smug Sheep who likes Nature
+Apple is a Peppy Hamster who likes Play
+Erik is a Lazy Deer who likes Nature
+Pancetti is a Snooty Pig who likes Music
+Mac is a Jock Dog who likes Fitness
+Marina is a Normal Octopus who likes Music
+Moose is a Jock Mouse who likes Fitness
+Leonardo is a Jock Tiger who likes Fitness
+Drake is a Lazy Duck who likes Play
+Pinky is a Peppy Bear who likes Fashion
+Aurora is a Normal Penguin who likes Education
+Kabuki is a Cranky Cat who likes Music
+Stinky is a Jock Cat who likes Fitness
+Cally is a Normal Squirrel who likes Nature
+Bruce is a Cranky Deer who likes Nature
+Rocket is a Big Sister Gorilla who likes Fitness
+Louie is a Jock Gorilla who likes Fitness
+Grizzly is a Cranky Bear who likes Education
+Soleil is a Snooty Hamster who likes Education
+Kevin is a Jock Pig who likes Play
+Pietro is a Smug Sheep who likes Music
+Hopper is a Cranky Penguin who likes Music
+Ricky is a Cranky Squirrel who likes Education
+Drift is a Jock Frog who likes Fitness
+Colton is a Smug Horse who likes Nature
+Mathilda is a Snooty Kangaroo who likes Fitness
+Rory is a Jock Lion who likes Music
+Jacob is a Lazy Bird who likes Nature
+Pashmina is a Big Sister Goat who likes Music
+Tutu is a Peppy Bear who likes Fashion
+Phoebe is a Big Sister Ostrich who likes Fitness
+Carrie is a Normal Kangaroo who likes Nature
+Kid Cat is a Jock Cat who likes Fitness
+Angus is a Cranky Bull who likes Fitness
+Kitt is a Normal Kangaroo who likes Education
+Bob is a Lazy Cat who likes Play
+Roald is a Jock Penguin who likes Fitness
+June is a Normal Cub who likes Nature
+Penelope is a Peppy Mouse who likes Fashion
+Al is a Lazy Gorilla who likes Fitness
+Buzz is a Cranky Eagle who likes Nature
+Nibbles is a Peppy Squirrel who likes Fashion
+Simon is a Lazy Monkey who likes Play
+Coach is a Jock Bull who likes Fitness
+Rosie is a Peppy Cat who likes Music
+Anicotti is a Peppy Mouse who likes Fashion
+Hazel is a Big Sister Squirrel who likes Play
+Vesta is a Normal Sheep who likes Fashion
+Drago is a Lazy Alligator who likes Nature
+Boyd is a Cranky Gorilla who likes Fitness
+Puck is a Lazy Penguin who likes Fitness
+Rodeo is a Lazy Bull who likes Fitness
+Charlise is a Big Sister Bear who likes Fitness
+Pekoe is a Normal Cub who likes Nature
+Merengue is a Normal Rhino who likes Nature
+Iggly is a Jock Penguin who likes Fitness
+Bettina is a Normal Mouse who likes Education
+Phil is a Smug Ostrich who likes Music
+Alfonso is a Lazy Alligator who likes Play
+Walker is a Lazy Dog who likes Play
+Margie is a Normal Elephant who likes Education
+Croque is a Cranky Frog who likes Nature
+Dom is a Jock Sheep who likes Play
+Elise is a Snooty Monkey who likes Fashion
+Peck is a Jock Bird who likes Play
+Tank is a Jock Rhino who likes Fitness
+Sterling is a Jock Eagle who likes Fitness
+Tammy is a Big Sister Cub who likes Play
+Gabi is a Peppy Rabbit who likes Fashion
+Benjamin is a Lazy Dog who likes Nature
+Alice is a Normal Koala who likes Education
+Patty is a Peppy Cow who likes Fashion
+Samson is a Jock Mouse who likes Fitness
+Cousteau is a Jock Frog who likes Fitness
+Broffina is a Snooty Chicken who likes Music
+Annalisa is a Normal Anteater who likes Nature
+Chevre is a Normal Goat who likes Education
+Mira is a Big Sister Rabbit who likes Fitness
+Tiffany is a Snooty Rabbit who likes Fashion
+Peggy is a Peppy Pig who likes Fashion
+Wendy is a Peppy Sheep who likes Fashion
+Julia is a Snooty Ostrich who likes Education
+Peanut is a Peppy Squirrel who likes Fashion
+Boone is a Jock Gorilla who likes Fitness
+Ursala is a Big Sister Bear who likes Music
+
+What would you like to learn about?
+1) An individual
+2) A species
+3) Individuals who like a particular color
+4) Quit
+> 4
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week10/data[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week10/data[00m$ exit
+[?2004l
+exit
+
+Script done on 2023-10-20 18:15:08-07:00 [COMMAND_EXIT_CODE="0"]

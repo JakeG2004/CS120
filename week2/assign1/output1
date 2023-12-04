@@ -1,0 +1,79 @@
+Script started on 2023-08-25 11:52:39-07:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="272" LINES="15"]
+[?2004h]0;jake@Laptop4070: ~/week1/assign1[01;32mjake@Laptop4070[00m:[01;34m~/week1/assign1[00m$ ./yahtc [5@rm yahtc.out[Cls[Krm yahtc.out [5P./yahtc[C[K./fortune.out 
+[?2004lEnter your favorite number (no decimals): 1
+Enter a number you don't like (no decimals): -2
+Enter your UNLUCKY number: 1
+
+Your secret, lucky number is: -4
+Try to be less negative.
+Press enter to quit. 
+
+[?2004h]0;jake@Laptop4070: ~/week1/assign1[01;32mjake@Laptop4070[00m:[01;34m~/week1/assign1[00m$ ./fortune.out 
+[?2004lEnter your favorite number (no decimals): 4
+Enter a number you don't like (no decimals): 2
+Enter your UNLUCKY number: 2
+
+Your secret, lucky number is: 2
+Think to the stars!
+˚. ✦.˳·˖✶ ⋆.✧˚.
+Press enter to quit. 
+
+[?2004h]0;jake@Laptop4070: ~/week1/assign1[01;32mjake@Laptop4070[00m:[01;34m~/week1/assign1[00m$ ./fortune.out 
+[?2004lEnter your favorite number (no decimals): 2
+Enter a number you don't like (no decimals): 5
+Enter your UNLUCKY number: 3
+
+Your secret, lucky number is: 5
+Today you should embrace technology.
+      _
+     |-|  __
+     |=| [Ll]
+     "^" ====`o
+Press enter to quit. 
+
+[?2004h]0;jake@Laptop4070: ~/week1/assign1[01;32mjake@Laptop4070[00m:[01;34m~/week1/assign1[00m$ ./fortune.out 
+[?2004lEnter your favorite number (no decimals): 3
+Enter a number you don't like (no decimals): 7
+Enter your UNLUCKY number: 4
+
+Your secret, lucky number is: 9
+Today is your lucky day!
+  ____
+ /\'  \    _____
+/: \___\  / .  /\
+\' / . / /____/..\
+ \/___/  \'  '\  /
+          \'__'\/
+Press enter to quit. 
+
+[?2004h]0;jake@Laptop4070: ~/week1/assign1[01;32mjake@Laptop4070[00m:[01;34m~/week1/assign1[00m$ ./fortune.out 
+[?2004lEnter your favorite number (no decimals): 1
+Enter a number you don't like (no decimals): 1
+Enter your UNLUCKY number: 4
+
+Your secret, lucky number is: 5
+Today you should embrace technology.
+      _
+     |-|  __
+     |=| [Ll]
+     "^" ====`o
+Do you really not care about your numbers? For shame.
+•`_´•
+Press enter to quit. 
+
+[?2004h]0;jake@Laptop4070: ~/week1/assign1[01;32mjake@Laptop4070[00m:[01;34m~/week1/assign1[00m$ ./fortune.out 
+[?2004lEnter your favorite number (no decimals): 1
+Enter a number you don't like (no decimals): 1
+Enter your UNLUCKY number: 1
+
+Your secret, lucky number is: 2
+Think to the stars!
+˚. ✦.˳·˖✶ ⋆.✧˚.
+Do you really not care about your numbers? For shame.
+•`_´•
+clearly you don't care, so no more program for you >:(
+(ﾉꐦ ఠ曲ఠ)ﾉ彡┻━┻
+[?2004h]0;jake@Laptop4070: ~/week1/assign1[01;32mjake@Laptop4070[00m:[01;34m~/week1/assign1[00m$ exit
+[?2004lexit
+
+Script done on 2023-08-25 11:54:15-07:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,114 @@
+Script started on 2023-10-30 11:16:42-07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="176" LINES="30"]
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week11/map[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week11/map[00m$ ./map.out 
+[?2004lWelcome to the grand map. Choose what you would like to do
+1) View Map (color)
+2) View Map (ascii)
+3) View Animals
+4) Find Altitude
+5) Exit Program
+> 2
+KEY:
+. = Water, # = Prarie, ^ = Mountain
+= = = = = Ʌ Ʌ Ʌ Ʌ Ʌ . . . . . . . . . Ʌ 
+= = = = = Ʌ Ʌ Ʌ Ʌ Ʌ Ʌ . . . . . . . . . 
+= = = = = Ʌ Ʌ Ʌ Ʌ . . . . . . . . . . Ʌ 
+= = = = . = = Ʌ Ʌ . . . . . . . . . = Ʌ 
+= = = . . . Ʌ Ʌ . . . . . . . = = = = = 
+= = = = . . Ʌ Ʌ . Ʌ . . . . = . . = = = 
+= = = = = = = Ʌ . . Ʌ . . . . . . . = = 
+. = = . Ʌ = = Ʌ . Ʌ . Ʌ . . . Ʌ . . Ʌ Ʌ 
+. . . Ʌ . . = = Ʌ Ʌ . Ʌ Ʌ Ʌ Ʌ Ʌ . . = = 
+. = = = . . . = Ʌ Ʌ Ʌ . Ʌ . . . . . = = 
+Welcome to the grand map. Choose what you would like to do
+1) View Map (color)
+2) View Map (ascii)
+3) View Animals
+4) Find Altitude
+5) Exit Program
+> 3
+KEY:
+P = Prarie Dog, F = Ferret, K = Kingsnake, M = Mountain Goat, E = Eagle, B = Brown Bear
+K K K F K E B E B B                   B 
+F K P K K M E E B B E                   
+P F K F P M B M M                     B 
+K P F P   P K M M                   K M 
+K P K       M B               F K P K K 
+F F K F     E E   E         P     F K K 
+P F F P F P P E     M               P P 
+  F K   M K F M   B   M       E     M B 
+      E     K K B E   M E E B E     P P 
+  P K K       K E E E   B           K P 
+Welcome to the grand map. Choose what you would like to do
+1) View Map (color)
+2) View Map (ascii)
+3) View Animals
+4) Find Altitude
+5) Exit Program
+> 4
+Origin is (1,1) in the bottom left corner
+Enter X coordinate of desired terrain (1-20): 1
+Enter Y coordinate of desired terrain (1-10): 1
+
+Altitude is 0 feet
+Welcome to the grand map. Choose what you would like to do
+1) View Map (color)
+2) View Map (ascii)
+3) View Animals
+4) Find Altitude
+5) Exit Program
+> 2
+KEY:
+. = Water, # = Prarie, ^ = Mountain
+= = = = = Ʌ Ʌ Ʌ Ʌ Ʌ . . . . . . . . . Ʌ 
+= = = = = Ʌ Ʌ Ʌ Ʌ Ʌ Ʌ . . . . . . . . . 
+= = = = = Ʌ Ʌ Ʌ Ʌ . . . . . . . . . . Ʌ 
+= = = = . = = Ʌ Ʌ . . . . . . . . . = Ʌ 
+= = = . . . Ʌ Ʌ . . . . . . . = = = = = 
+= = = = . . Ʌ Ʌ . Ʌ . . . . = . . = = = 
+= = = = = = = Ʌ . . Ʌ . . . . . . . = = 
+. = = . Ʌ = = Ʌ . Ʌ . Ʌ . . . Ʌ . . Ʌ Ʌ 
+. . . Ʌ . . = = Ʌ Ʌ . Ʌ Ʌ Ʌ Ʌ Ʌ . . = = 
+. = = = . . . = Ʌ Ʌ Ʌ . Ʌ . . . . . = = 
+Welcome to the grand map. Choose what you would like to do
+1) View Map (color)
+2) View Map (ascii)
+3) View Animals
+4) Find Altitude
+5) Exit Program
+> 4
+Origin is (1,1) in the bottom left corner
+Enter X coordinate of desired terrain (1-20): 19  202
+Enter X coordinate of desired terrain (1-20): 20
+Enter Y coordinate of desired terrain (1-10): 10
+
+Altitude is 2826 feet
+Welcome to the grand map. Choose what you would like to do
+1) View Map (color)
+2) View Map (ascii)
+3) View Animals
+4) Find Altitude
+5) Exit Program
+> 3
+KEY:
+P = Prarie Dog, F = Ferret, K = Kingsnake, M = Mountain Goat, E = Eagle, B = Brown Bear
+K K K F K E B E B B                   B 
+F K P K K M E E B B E                   
+P F K F P M B M M                     B 
+K P F P   P K M M                   K M 
+K P K       M B               F K P K K 
+F F K F     E E   E         P     F K K 
+P F F P F P P E     M               P P 
+  F K   M K F M   B   M       E     M B 
+      E     K K B E   M E E B E     P P 
+  P K K       K E E E   B           K P 
+Welcome to the grand map. Choose what you would like to do
+1) View Map (color)
+2) View Map (ascii)
+3) View Animals
+4) Find Altitude
+5) Exit Program
+> 5
+[?2004h]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week11/map[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week11/map[00m$ [K]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week11/map[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week11/map[00m$ [K]0;jake@pop-os: ~/Documents/Schoolwork/CS120/week11/map[01;32mjake@pop-os[00m:[01;34m~/Documents/Schoolwork/CS120/week11/map[00m$ exit
+[?2004lexit
+
+Script done on 2023-10-30 12:38:22-07:00 [COMMAND_EXIT_CODE="0"]

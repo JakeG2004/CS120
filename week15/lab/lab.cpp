@@ -10,6 +10,7 @@ struct node{
     void printnode(node);
     void printlist(node *);
     void addtail(node *,node *);
+    int totalValue(node*);
     
     int main(){
         node *temp,*head;
@@ -43,6 +44,22 @@ struct node{
         temp -> next = head;
         head = temp;
         printlist(head);
+        cout << endl;
+
+        temp = new node;
+        temp->item = "soap";
+        temp->value = 2;
+        addtail(head,temp);
+        printlist(head);
+        cout << endl;
+
+        temp = new node;
+        temp->item = "toast";
+        temp->value = 2;
+        addtail(head,temp);
+        printlist(head);
+
+        cout << "Total Value: " << totalValue(head) << endl;;
 }
 
 void printnode(node n){
@@ -63,4 +80,13 @@ void addtail(node *current, node *add){
     } else {
         addtail(current->next,add);
     }
+}
+
+int totalValue(node* head){
+    static int value;
+    if(head -> next  != NULL){
+        totalValue(head -> next);
+    }
+    value += head -> value;
+    return value;
 }

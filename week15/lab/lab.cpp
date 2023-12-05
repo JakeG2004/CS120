@@ -12,6 +12,7 @@ struct node{
     void addtail(node *,node *);
     int totalValue(node*);
     bool isInList(node*, string);
+    string nthItem(node*, int);
     
     int main(){
         node *temp,*head;
@@ -63,6 +64,8 @@ struct node{
         cout << "Total Value: " << totalValue(head) << endl;
 
         cout << isInList(head, "mop") << endl;
+
+        cout << nthItem(head, 3) << endl;
 }
 
 void printnode(node n){
@@ -100,4 +103,12 @@ bool isInList(node* head, string itemQ){
     if(head -> next != NULL)
         return isInList(head -> next, itemQ);
     return 0;
+}
+
+string nthItem(node* head, int pos){
+    if(pos == 0)
+        return head -> item;
+    if(head -> next == NULL && pos > 0)
+        return "N exceeds size of list";
+    return(nthItem(head -> next, pos - 1));
 }

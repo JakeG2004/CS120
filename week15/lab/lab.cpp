@@ -11,6 +11,7 @@ struct node{
     void printlist(node *);
     void addtail(node *,node *);
     int totalValue(node*);
+    bool isInList(node*, string);
     
     int main(){
         node *temp,*head;
@@ -59,7 +60,9 @@ struct node{
         addtail(head,temp);
         printlist(head);
 
-        cout << "Total Value: " << totalValue(head) << endl;;
+        cout << "Total Value: " << totalValue(head) << endl;
+
+        cout << isInList(head, "mop") << endl;
 }
 
 void printnode(node n){
@@ -89,4 +92,12 @@ int totalValue(node* head){
     }
     value += head -> value;
     return value;
+}
+
+bool isInList(node* head, string itemQ){
+    if(head -> item == itemQ)
+        return 1;
+    if(head -> next != NULL)
+        return isInList(head -> next, itemQ);
+    return 0;
 }
